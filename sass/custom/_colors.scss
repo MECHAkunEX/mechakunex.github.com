@@ -41,3 +41,24 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+
+// PINK!
+$supercolor: #a80073;
+
+$text-color: invert($supercolor);
+$border-color: darken($supercolor,25);
+
+$link-color: lighten($text-color, 3) !default;
+$main-bg: $supercolor !default;
+$page-bg: $supercolor !default;
+$article-border: $border-color !default;
+$header-bg: $supercolor !default;
+$title-color: $text-color !default;
+$subtitle-color: $text-color !default;
+$text-color-light: lighten($supercolor, 1) !default;
+$type-border: $border-color !default;
+$nav-bg: $supercolor !default;
+$nav-color: $text-color;
+$sidebar-bg: $supercolor !default;
+$footer-color: $text-color !default;
+$footer-bg: $supercolor !default;
