@@ -2,7 +2,15 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
-//$header-bg: #263347;
+$header-bg: hsl(306, 100, 21);
+$main-bg: hsl(306, 100, 87);
+$page-bg: $header-bg;
+$text-color-light: #2a1818;
+$nav-bg: hsl(306, 100, 58);
+$sidebar-bg: hsl(306, 100, 70);
+$footer-bg: $nav-bg;
+$footer-color: darken($nav-bg, 38);
+
 //$subtitle-color: lighten($header-bg, 58);
 //$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
 //$nav-bg-front: image-url('noise.png');
@@ -13,7 +21,6 @@
 //$footer-bg: #ccc !default;
 //$footer-bg-front: image-url('noise.png');
 //$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
-
 
 /* To use the light Solarized highlighting theme uncomment the following line */
 //$solarized: light;
@@ -41,24 +48,3 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
-
-// PINK!
-$supercolor: #a80073;
-
-$text-color: invert($supercolor);
-$border-color: darken($supercolor,25);
-
-$link-color: lighten($text-color, 3) !default;
-$main-bg: $supercolor !default;
-$page-bg: $supercolor !default;
-$article-border: $border-color !default;
-$header-bg: $supercolor !default;
-$title-color: $text-color !default;
-$subtitle-color: $text-color !default;
-$text-color-light: lighten($supercolor, 1) !default;
-$type-border: $border-color !default;
-$nav-bg: $supercolor !default;
-$nav-color: $text-color;
-$sidebar-bg: $supercolor !default;
-$footer-color: $text-color !default;
-$footer-bg: $supercolor !default;
