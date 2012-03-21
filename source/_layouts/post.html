@@ -5,6 +5,8 @@ single: true
 
 <div>
 <article class="hentry" role="article">
+  {% include wide_ad.html %}
+
   {% include article.html %}
   <footer>
     <p class="meta">
@@ -25,6 +27,9 @@ single: true
     </p>
   </footer>
 </article>
+
+{% include wide_ad.html %}
+
 {% if site.disqus_short_name and page.comments == true %}
   <section>
     <h1>Comments</h1>
