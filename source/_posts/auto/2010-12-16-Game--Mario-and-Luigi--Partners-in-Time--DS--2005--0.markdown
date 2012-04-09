@@ -1,0 +1,88 @@
+---
+layout: post
+title: "Game: Mario and Luigi: Partners in Time (DS, 2005)"
+date: 2010-12-16 00:00
+comments: true
+categories:
+- "Video Games"
+- "Mario and Luigi: Partners in Time"
+- "DS"
+- "2005"
+---
+
+I recently played Mario &amp; Luigi: Partners in Time for the DS.
+
+Ever since Super Mario RPG, I've liked the idea of a Mario-based
+RPG, especially because of the action-based combat. I played Super
+Paper Mario when I first got a Wii and enjoyed it a lot, but I
+hadn't played any of the portable Mario and Luigi games. I heard a
+lot of good things about Bowser's Inside Story, so I decided to
+play this game in preparation.
+
+Overall, I found the game to be very enjoyable, but with a few
+big flaws.
+
+First, the dialogue is hilarious and ridiculous. There were many
+times when I stopped, found my wife, and told her some of the great
+lines. Second, the battle system was initially extremely
+fun. Fighting each different enemy actually /feels/ different, as
+opposed to a traditional turn-based RPG where you may use
+different strategies, but what you're doing feels the same. I'm
+very impressed that they were able to do that.
+
+I was not excellent at avoiding the enemies' attacks (you can
+counter or dodge basically every attack against you), so I got
+hammered a lot. This made me notice that average monsters would do
+damage equal to about a third of your total health on every
+attack. Since the players are normally out-numbered, this meant
+that you could be KO'd in a single round on almost every battle if
+you didn't dodge. I don't think I was under-leveled, because I was
+able to get so far in the game. This was really obnoxious to me,
+because I didn't feel it fit the light-hearted tone of the game
+and there were not very good ways to practice. (For example, it
+takes about 2 minutes to get back into a fight after dying,
+quitting, loading, etc; and I never found any "Heart Blocks" next
+to a field where monsters were.)
+
+A related problem was that it seemed like monsters had
+extremely high health counters. For example, near when I quit, I
+would regularly fight groups of 4 or 5 monsters, each with 170 HP
+and I was able to do about 31 HP of damage each round with each
+character. Each battle took almost 13 rounds---and that's only if
+I was able to dodge every attack and not have to heal. I don't
+think I'm that bad at games, so I find it easier to blame the
+game.
+
+The problem, however, is probably that after about 6 or 7
+hours, I got really tired of the incredibly long and frustrating
+battles, so I tried to avoid them as much as possible. I---as a
+hardened RPG player---should have known better. If you avoid
+combat, then you won't level as much, so you won't be able to
+compete against bosses and other enemies, which spawns more
+dodging, but now for necessity, etc. This was a bad strategy
+because it really exacerbated my dislike of the game.
+
+If I design a game with experience like this, I will have to
+make a point of ensuring that the player cannot dig themselves
+into a hole like this. One technique is to use a field-enemy
+system like Chrono Trigger or Final Fantasy XIII where generally
+enemies can only be avoided in "traversal" segments rather than
+"dungeon" segments; and then control the pacing of combat through
+that means.
+
+On Tuesday, I had a particularly horrendous battle. I fought B&BB
+(no spoilers). I started playing at the beginning of my student's
+final that started at 11am and got to the fight in about 15
+minutes (not sure exactly.) The final was three hours and one
+student made use of all the time. I beat the battle at 1:45pm. I
+was in the battle for almost two hours! I couldn't believe it!
+This is supposed to a /portable/ game, as well. (You also cannot
+pause in battle, which I find very odd.)
+
+Last night, I was 12 hours into the game, at level 18, at the
+fifth to last boss (according to a walkthrough), and getting
+unbelievably pummeled. I decided that life is too short to play
+games I don't love. I walked away.
+
+I'm still going to play Inside Story, but I probably will not
+come back to this game.

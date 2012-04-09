@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Game: Sin and Punishment (N64, 2000)"
+date: 2009-12-16 00:00
+comments: true
+categories:
+- "Video Games"
+- "Sin and Punishment"
+- "N64"
+- "2000"
+---
+
+For almost the past two months, I have been playing Sin and
+Punishment: Hoshi no Keishōsha every day. In the beginning, I
+could only get through about 15 minutes of the game, so it fit
+well into my rotation. As I got towards the end, I would play
+every day, get to right before the final boss and die, losing
+about 45 minutes of my life every time. But! I loved it so much!
+It is so satisfying to play this game and slowly get better at
+getting through each boss, each segment; learning how to get more
+and more enemies and points. At times I feel like I'm playing a
+beautiful piano piece that I've practiced for so long.
+
+When I started playing, I didn't know about the sword or that you
+could knock back projectiles at enemies, so once I learned I
+quickly got past some of my previous bottlenecks. My favourite
+part of the game is when you control Airan: running through the
+ship with her, fighting Leda, going on the chase, and destroying
+the fleet is just so... EPIC! Then, the subway sequence is really
+fun, but honestly, not as cool as the ship sequence. The first and
+second parts with Saki are fine, but the side-scrolling final
+stage is awesome. The difficulty in the game is perfect. Even
+though I got through the final boss on my first try, it was insane
+and frenetic. I ended with about 564 hit points left on the Earth,
+which started around 30k, so I clearly didn't do an amazing
+job. But it was awesome.
+
+The music is great for its era (although wifey reports that she
+got pretty tired of it.) The visuals hold up very well actually,
+because everything is so big. Ya, the textures in the backgrounds
+are really blurry, but it actually gives an apocalyptic and fast
+paced feel. The controls are really smooth... although I didn't
+play on a N64 controller. (I used the best controller ever aka
+arcade stick. I mapped the top three buttons to: strafe left,
+fire, strafe right, lock-on/manual. Then the bottom left button to
+jump so that I just laid my hand down and never had to move it. I
+feel like the game was easier this way because I used more digits
+than the N64 controller would "fit.") I love the pacing and the
+simple (but interesting) scoring system.
+
+I cannot wait for the sequel, Sin and Punishment: Sora no Kōkeisha
+to come out. If it doesn't make it over, I'll definitely have to
+import a Japanese Wii or something to play it. I heart it.
+
+Now the final business: My score. I played on Easy for this first
+play-through. (I will do Normal soon.) I got 44,214,705 points,
+spent 46 minutes and 41 seconds and got 2033 enemies. This is all
+on one credit, of course.
+
+Love it!

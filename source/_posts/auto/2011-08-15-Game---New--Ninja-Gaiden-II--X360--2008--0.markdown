@@ -1,0 +1,140 @@
+---
+layout: post
+title: "Game: (New) Ninja Gaiden II (X360, 2008)"
+date: 2011-08-15 00:00
+comments: true
+categories:
+- "Video Games"
+- "(New) Ninja Gaiden II"
+- "X360"
+- "2008"
+---
+
+I played it for about a week and got to Chapter 7. Each day I
+played it, I completely exactly one chapter. Each chapter took
+about 30 to 40 minutes of play-time, although I don't think the
+in-game clock counted deaths, which I estimate added another 15
+minutes on average.
+
+As I played, I took little notes. Unfortunately, almost all of
+them are about bad things. But before I say the bad things, I
+should say that if this game didn't have such stiff competition,
+it would probably be very good.
+
+It's competition, is, of course, Bayonetta---a.k.a. pure gaming
+amazingness.
+
+At it's core, Ninja Gaiden and Bayonetta are the same kind of
+game: 3D action/brawler. Thus, it's very fair to compare them.
+
+Ninja is cut from really different cloth though. For example, in
+Hideki Kamiya's commentary of Bayonetta, he talked about how he
+didn't like blocking in action games because they were too slow
+and emphasized static resistance, rather than fluid
+dodging. Bayonetta's dodging is a brilliant counter to
+blocking. Ninja, however, has really static blocking, that
+actually hardly ever feels effective.
+
+In the same commentary, Kamiya talked about how it was important
+to him that Bayonetta could not be knocked down, unless she is
+killed. In addition to promoting feminist power, this ensures that
+the player never has to wait for her to get up for the action to
+start again.
+
+There are many, many, many times in Ninja where you feel like you
+are frustratedly waiting for Ryu to get up from being knocked
+down, finish a "strong" attack so you can move and dodge (which,
+of course, you can't, so you get clobbered), or waiting for an
+enemy that has trapped you to finish its animation. This is a very
+unfulfilling and frustrating time. I found the Skull Boss in
+Venice to be a particularly bad offender on this point.
+
+One of the worst experiences in all dynamic games is the dreaded
+turret sequence where you must stand still, shoot at things with a
+different (i.e., uncomfortable) mechanic, and get knocked back
+when you get hit. Even the wonderful Bayonetta has such a sequence
+(although, it's really not that bad because it's so fast and you
+basically can't fail.)
+
+Ninja does not have a proper turret sequence (at least in the part
+I got to.) Instead, every time you have to use a missile weapon,
+it becomes one. It is unbelievably bad and drastically slows down
+the game and your ability to dodge as you painful readjust the
+camera to the target.
+
+On that note, in general the camera in Ninja is pretty bad. FWIW,
+I think a camera is bad when you have to think about it "as a
+camera" rather than becoming a natural part of your motion. I
+think the reason is that the camera is too tight on Ryu. It looks
+perfect when it is directly behind him, a little above his
+shoulder, looking out at the stage with Ryu in the bottom middle
+of the screen; but this angle/placement becomes really bad when
+you are jumping around fighting. In contrast, in Bayonetta the
+camera is at a much higher vantage point with Bayonetta in the
+center and the stage around her; this placement is much harder to
+mess up and I don't recall it ever happening.
+
+But now, these are relatively minor problems. I wouldn't have such
+high standards if not for the masterpiece, Bayonetta. So, why did
+I quit Ninja Gaiden II after about 6 hours of play and completing
+about half the game? Crashes.
+
+The game crashed in chapter 5. I gave it another chance.
+
+The game crashed in chapter 7. I gave it another chance.
+
+This time it crashed again in chapter 7, at the same spot, the
+very next time I tried.
+
+I cannot believe that people can sell video games that crash like
+this. Old games had flaws and buggy behavior, but I don't remember
+experiencing any crashes. I think that the possibility of
+releasing patches has made developers sloppy and decreased the
+objective quality of modern games.
+
+I wish there was a way to monetarily punish Team Ninja for this
+infraction.
+
+By the way, here are my end-of-chapter statistics:
+
+Chapter 1:
+Kills: 147
+Essence: 15465
+Ninpo: 2
+Play Time: 000:37:58
+Karma: 731559
+
+Chapter 2:
+Kills: 121
+Essence: 14400
+Ninpo: 3
+Play Time: 000:33:05
+Karma: 1493816
+
+Chapter 3:
+Kills: 239
+Essence: 26468
+Ninpo: 3
+Play Time: 000:43:19
+Karma: 2704203
+
+Chapter 4:
+Kills: 132
+Essence: 20340
+Ninpo: 3
+Play Time: 000:32:24
+Karma: 3415814
+
+Chapter 5:
+Kills: 92
+Essence: 12640
+Ninpo: 4
+Play Time: 000:30:43
+Karma: 4177470
+
+Chapter 6:
+Kills: 232
+Essence: 57099
+Ninpo: 4
+Play Time: 001:02:07
+Karma: 5099027    

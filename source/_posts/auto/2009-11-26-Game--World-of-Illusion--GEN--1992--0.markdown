@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Game: World of Illusion (GEN, 1992)"
+date: 2009-11-26 00:00
+comments: true
+categories:
+- "Video Games"
+- "World of Illusion"
+- "GEN"
+- "1992"
+---
+
+
+Wifey and I just beat World of Illusion Starring Mickey Mouse and
+Donald Duck for the Genesis. This is a two player platformer
+released in 1992 for the Sega Genesis. It is really fun that you
+have to cooperate with another person: sometimes you need to stand
+on each other's shoulders, pull the other player through a small
+hole, or use a handcar together. There is also friendly fire in
+the game, which is definitely exciting and forces you to really
+communicate.
+
+We played through all but the final level in one go a few weeks
+ago, but we lost all our tries right near the end and waited until
+tonight to finish it. We got back through all those parts and to
+the final boss, but he creamed us up front. The problem was that
+we didn't know where to attack him. This is typical of this game:
+it does a very poor job communicating to you what you need to do
+to advance. For example, there are these doors in the final area
+that are very hard to open because you don't know what button to
+press. Simple, but annoying.
+
+Overall, the game is a nice quick platforming experience and I
+think my wife liked it; and that's saying something! I can't wait to
+play through the new Super Mario Brothers for the Wii with her.
+
+We used Save States in the final area to conserve lives, but beat
+the final boss on one try.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Game: 100 Rogues (iOS, 2010)"
+date: 2011-06-01 00:00
+comments: true
+categories:
+- "Video Games"
+- "100 Rogues"
+- "iOS"
+- "2010"
+---
+
+I don't want to play games on my iPhone and this game is way too
+slow and inaccurate compared to NetHack or DCCS    

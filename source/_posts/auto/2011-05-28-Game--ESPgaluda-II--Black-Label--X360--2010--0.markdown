@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Game: ESPgaluda II: Black Label (X360, 2010)"
+date: 2011-05-28 00:00
+comments: true
+categories:
+- "Video Games"
+- "ESPgaluda II: Black Label"
+- "X360"
+- "2010"
+---
+
+Late last year I got エスプガルーダII from someone on the SHMUPS
+forum. I didn't start playing it every day until January, when I
+stopped playing Mushi every day. My scores as of now are:
+- ESPGaluda II - 360 Novice - Asagi: All-Clear. 217,480,251 points. #669 #hiscore #1cc
+- ESPGaluda II - Black Label Novice - Seseri: All-Clear. 229,344,460 points. #938 #hiscore #1cc
+- ESPGaluda II - Arrange - Tateha: Stage 2. 2,888,170 points. #1320 #hiscore
+- ESPGaluda II - Omake! - Asagi: All-Clear. 496,851,202 points. #hiscore #1cc
+- ESPGaluda II - 360 - Asagi: Stage 2. 1,615,157 points. #1675 #hiscore
+- ESPGaluda II - 360 - Ageha: Stage 3. 12,034,604 points. #771 #hiscore
+
+I was able to easily 1CC the easy modes, but I've been working on
+the normal modes for some time.
+
+The art in the game is very pretty, but not as fantastical as
+Mushi. Most of the enemies are human (they leave blood stains on
+the ground, eww) or normal military-looking things, which I find
+kind of boring. Nevertheless, the art, given the style, is
+great.
+
+The music on the first level is AMAZING, but the music for the
+rest of the game is just so-so.
+
+The scoring system is interesting. Basically, you get gems and
+gold. Killing enemies drops gems. You can use gems to slow down
+time. When you destroy an enemy and time is slowed, then all their
+bullets become gold. (If you try to slow down time, but don't have
+gems, time speeds up. If you kill enemies in this mode, they drop
+gold. Also, you are always getting points just for being in this
+mode.) Now, time is slower for the bullets, but not the
+characters, so by slowing down time you build up many bullets on
+the screen and you can cash them all in for gold if you picked a
+good time (where good time means you can kill the enemy.) This is
+a really neat risk/reward system because you can spend gems to
+make it easier to dodge or to get high scores; and, getting high
+scores means there needs to be many bullets, and you need to
+accurately gauge if you can kill the enemy with the number of gems
+you have, otherwise all those bullets will need to be dodged.
+
+While it is very interesting, I don't find the game as enjoyable
+as Mushi. It doesn't have the same pace or something. I've played
+it every day for about six months and I think I will play it much
+less frequently, and spend more time with Mushi.

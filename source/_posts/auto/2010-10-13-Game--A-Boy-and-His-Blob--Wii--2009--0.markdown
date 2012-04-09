@@ -1,0 +1,134 @@
+---
+layout: post
+title: "Game: A Boy and His Blob (Wii, 2009)"
+date: 2010-10-13 00:00
+comments: true
+categories:
+- "Video Games"
+- "A Boy and His Blob"
+- "Wii"
+- "2009"
+---
+
+
+I recently played through A Boy and His Blob for the Wii. I'd been
+watching this game since it was announced because it was 2D,
+looked beautiful, and looked really cute too.
+
+When I first started playing, I was very thorough: getting
+every treasure and going through every challenge level, but
+eventually (as you read below) the challenge levels became
+incredibly painful and I started to hate the game because of
+them. After that I just raced through the game and didn't even get
+many chests in the final world.
+
+# Things I loved
+
+The 2D graphics are really pretty. I like the brightness and
+the fluidity of them in particular. I like that the levels reflect
+what the world map implies about them and sometimes you can see
+the later landmarks on the map from inside them.  For example,
+seeing the tower from the middle of the final world was epic.
+
+The whole style is incredibly cute and heartwarming. The boy is
+the best five year old I've ever seen in a game and I love the hug
+animation. Even the enemies are kind of pudgy and cute.
+
+The vast variety of beans is very entertaining. Only a few of
+them overlap in functionality, so the puzzles are not necessarily
+"non-linear", but the variety of different kinds of puzzles keeps
+it fresh. I would've liked a mode where I could play a level with
+a custom selection of beans (perhaps after I beat it or got all
+the chests.)
+
+The puzzles are clever enough. There are a few places where you
+can really break things with creativity, but that is fun. For
+example, you can get birds to hit mine blobs and just walk out of
+some otherwise difficult things; the Zorb bean can survive any
+fall and is invulnerable, so you can just jump in it and then jump
+off a cliff rather than blob-achute down. I think the final areas
+(in the castles) had the best puzzles in terms of difficulty and
+interestingatude.
+
+I was very surprised when I got to the first boss battle. I
+thought the worked really well as multi-part puzzles. Although,
+I'll complain about them more later... that they exist is
+definitely a plus.
+
+I was impressed with the lack of text and the way the game
+communicated to you what you were supposed to do and the
+intentions of the blob, etc. This is best illustrated by the lack
+of a menu. I love that you turn the game on and are almost
+instantly controlling the boy.
+
+MECHA BLOB!
+
+# Things I hated
+
+Although the puzzles were clever and interesting, there was not
+enough mystery because almost every stage has a sign instructing
+you which of the four beans is the correct one to use for that
+segment. This really kills a lot of the enjoyment, because you're
+not so much "solving the puzzle" as "executing the solution". I
+will complain below about the tools you have for "executing", so
+this turns out to be a big problem.
+
+Unlike the rest of the game, the challenge levels don't have
+checkpoints. This makes playing them really jarring because it
+doesn't fit with the general feel. Since the challenge levels have
+the hardest "reflex" challenges (more below), this is particularly
+annoying. Some of the challenge levels are just stupid-cheap
+too. For example, I quit playing them after one where you had to
+drop a Trampobean down a pit and then jump hoping you landed on it
+correctly. You then had to do this four more times, restarting
+from the beginning when you missed. Since the beans bounce and
+have physics applied to them, it is frustrating and unsatisfying
+to make the jump correctly.
+
+There are a few annoying bugs. Level 4-1 sticks in my mind
+because you don't have the blob with you, so he doesn't eat the
+chests. Instead, you drop them into the ground level where the
+blob will get them later. I dropped every chest and made it to the
+next checkpoint, yet only two chests were there at the
+end. Arggh.
+
+# The biggest most "shoot myself in the face" problem
+
+The controls are unimaginably bad. They are sluggish and
+inaccurate. It is like trying to push an anvil with a wet
+noodle. I've read the developers talk about how this is partly
+because the boy is supposed to be a clumsy kid but that seems like
+a total cop-out. This just plain sucks. I think the sluggish-ness
+would not be as bad if you could use the D-pad to control the boy,
+but even on the Classic controller (where most buttons duplicate
+what another button does), you cannot. This is especially dumb
+because the game is 2D.
+
+In general, this horrible control would be much more passable
+if the game did not require reflexes. Yet, there are many reflex
+sections that require exact platforming control yet the mechanics
+do not give the ability to do it. I don't mind restarting levels,
+etc (I play shmups after all), but that's because the games I play
+that require that always make clear that it is /your fault/
+when you die and it never feels like the game's fault. I can
+honestly say that almost all the time, I felt like I was dying
+because the controls were so bad. There is nothing more
+frustrating than this.
+
+The bad controls are made worse by some of the custom bean
+controls. The Zorb, Rocket, and Bouncer are the biggest offenders,
+because they are the most mobile beans. The Blobachute is bad
+too.
+
+This problem is why the challenge levels were so bad. They were
+almost all reflex based and had a higher than normal restart
+penalty. The bosses were frustrating for the same reason. The
+third boss was one of the worst gaming experiences of my life. I
+wanted to blow my brains out. Ugh.
+
+# The verdict
+
+This is a good game, but not a classic. I only want to play
+classics. I don't think I'll be playing this much more, but if I
+have a young friend in the near future I may point them at this or
+donate the game to them.

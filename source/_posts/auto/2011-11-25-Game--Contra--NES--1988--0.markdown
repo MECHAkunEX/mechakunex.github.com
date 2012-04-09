@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Game: Contra (NES, 1988)"
+date: 2011-11-25 00:00
+comments: true
+categories:
+- "Video Games"
+- "Contra"
+- "NES"
+- "1988"
+---
+
+This afternoon I played Contra on the Famicom.
+
+I played for about an hour and got to the end of the third stage
+reliably, but couldn't take care of the boss fast enough. I played
+the Japanese version so I could use stage select and start from
+the beginning of the level rather than the beginning of the
+game. This effectively gives you infinite continues if you are
+honest about not going past the point that you've gotten before. I
+like infinite continue systems, provided the time in between
+continue points is sufficient large. I feel like a lot of newer
+games have such tiny checkpoint stretches that you can just plow
+through. I realized that the reason I want to 1CC shmups is
+because when you continue you start from exactly where you were
+rather than the beginning of the level, so it feels really cheap
+to do so.
+
+After deciding to put it down for the day, I decided to play the
+US version and use an infinite lives Game Genie code so I could
+quickly play through the whole game and remember what all the
+stages were like. (Since you begin a new life exactly where you
+were, this allows you to plow through any problem.) It was nice to
+remember what everything was like. The noises during the snow
+stage were very memorable, as were the sounds of blowing up the
+spiked walls in the factory.
+
+This game is very tight and has a lot of friction, which is really
+good, especially compared to some of the games that haven't stood
+up very well. It's a solid game, but I think it has a few
+problems. The major one is that it so wedded to the wrong arcade
+sensibilities... namely cheap kills to get more
+quarters. Nevertheless, this is definitely an optimal path through
+most levels. For example, after a dozen or so tries, I could get
+through the third stage without getting hit once. (Of course, the
+boss trounced me.) I remember this game being great to play with a
+friend, although in retrospect it has some bad co-op attributes:
+you can kill your friend by scrolling the screen and you can too
+easily steal their upgrade. Given these, I'm not sure I really
+would want to play it with someone, because I wouldn't want to
+make them mad.
+
+Overall, I'm not sure I would play the game again or invest the
+time to get past stage 3 honestly. The main reason is that it just
+isn't a joy to play. It's fun, but it's not the giddy kind of fun
+that a Mega Man 2 or Bayonetta is. It just isn't the
+Ur-Run-n-Gun.

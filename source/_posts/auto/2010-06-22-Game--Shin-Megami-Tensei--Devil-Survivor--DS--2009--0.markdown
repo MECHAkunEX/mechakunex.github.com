@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Game: Shin Megami Tensei: Devil Survivor (DS, 2009)"
+date: 2010-06-22 00:00
+comments: true
+categories:
+- "Video Games"
+- "Shin Megami Tensei: Devil Survivor"
+- "DS"
+- "2009"
+---
+
+I started playing Devil Survivor in December 2009 and played it
+regularly until the middle of January, then I got stuck on one
+fight, so I played twice a week to progress without being numbed
+by grinding. After I got through the battle in March, things
+picked up and I played it regularly again. I've decided to stop
+playing because I've been grinding to get past a battle for almost
+two months with no end in sight.
+
+The gameplay is great: it's a turn-based tactical role-playing
+game with Dragon Quest-style fights when combatants encounter each
+other on the field. I find real-time strategy games too frantic,
+so I really enjoyed this system. There is a Pokemon-esque
+"catch-them-all" with the demons that you can collect (apparently
+this is common with all Megaten games, but it's the first I've
+ever played.) There is incredibly deep customization with the
+demon skills you can "crack".
+
+The game got a lot easier for me once I understood how to use
+all its systems. For the majority of the time I played, I didn't
+realize what the fusion search option did. (It shows you all the
+demons that you can potentially get by combining demons you have.)
+Instead, I would search through combinations manually. Since that
+was so tedious, I almost never did it. Once I understood search, I
+did lots more fusing. Similarly, I didn't realize that you could
+change a character's skills whenever you wanted. I thought you had
+to crack them from an enemy and then you had that skill until it
+was replaced. Once I realized that wasn't the case, I could tailor
+my characters much better for the situation at hand.
+
+The game is very skillful. Almost no battle will have a random
+outcome if you plan your skill and demon configuration properly. I
+really appreciate that.
+
+However, there are a few key points where if you've done every
+single battle before them and you've cracked every skill by doing
+the free battles many times, you won't be high enough level to
+beat the battle. So, your only option is to grind the free
+battles. Unfortunately, grinding is extremely unproductive because
+(1) a character on the field only gets EXP from the small battles
+they participate in (rather than all the battles), (2) small
+battles give minuscule amounts of EXP, and (3) free battles do not
+give event EXP, which is typically very large. As an example, it
+takes me about ten five to six minute battles to gain one level
+for the Hero. The worst part is that there is typically only one
+free battle available and it is almost exactly the same every time
+you play it. Thus, you are not only grinding, which is boring, but
+you are making the exact same moves every turn. I cannot fully
+express how boring this is.
+
+Overall, I really like this game and feel bad that I am giving
+up, but it is a little too willing to waste my time.

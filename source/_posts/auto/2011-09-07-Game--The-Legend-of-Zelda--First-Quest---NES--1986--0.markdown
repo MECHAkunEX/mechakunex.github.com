@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Game: The Legend of Zelda (First Quest) (NES, 1986)"
+date: 2011-09-07 00:00
+comments: true
+categories:
+- "Video Games"
+- "The Legend of Zelda (First Quest)"
+- "NES"
+- "1986"
+---
+
+I played The Legend of Zelda on my AV Famicom with a RetroZone
+PowerPak. It was awesome.
+
+I started on Monday and played for about an hour while the *REDACTED*
+was asleep. I got to the 2nd Dungeon, but got my butt kicked
+pretty bad. I played yesterday and spent a lot of time in the
+beginning crawling the map buying everything and finding all the
+heart containers I could, then I got up to the 6th Dungeon in a
+few hours. Today, I took it the rest of the way. I found the 6th
+Dungeon to be very hard. I was able to complete the last dungeon
+with two visits: the first one got me all the items and got me
+familiar with the layout, but when I got to Ganon, I died, because
+I only had 3 lives and no potions. I refilled hearts, potions, etc
+and then went back and beat Ganon on my first (real) try---I only
+used one potion too.
+
+I tried to limit myself to the information in the Nintendo Power
+archive I had, although I used Google at least once to find out
+why I couldn't shoot arrows (they consume money.)
+
+It was very nostalgic to play, because I remember playing this a
+lot when I was a kid (although I don't remember ever beating it, I
+do remember getting to Ganon.) My strongest memories of playing
+the game are the first three dungeons. But stronger than memories
+of playing it are memories of reading the manual and looking at
+the map my dad made while he or my brother played. My mom says
+that before I could read or play well, I would tell Joe what to do
+by looking at my dad's map.
+
+I remember thinking it was really hard when I was a kid. It is
+definitely difficult---much more so than modern Zelda games---but
+I found it pretty straightforward to get good at. It wasn't
+crushingly hard like most people say NES games were.
+
+I'm very glad I played this again. I intend to do the Second Quest
+in a few months or something.

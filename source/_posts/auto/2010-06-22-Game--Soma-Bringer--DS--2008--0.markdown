@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Game: Soma Bringer (DS, 2008)"
+date: 2010-06-22 00:00
+comments: true
+categories:
+- "Video Games"
+- "Soma Bringer"
+- "DS"
+- "2008"
+---
+
+While I was on my tour, I played Soma Bringer for the DS. At
+first, I thought I would love it because it felt like Secret of
+Mana. After playing through five "acts" of the game, I became too
+bored with it and stopped playing.
+
+I played as Millers with the Kampfs class and used claws as my
+weapon.
+
+Although on the surface, it is like /Secret of Mana/, there is
+very little choice or customization in the battle system. There
+are eight characters, but you can only play as one and have two
+others for back-up. (Since only one character, it seems, can heal,
+you pretty much must have them in the party.)  When your choose
+your character, you can pick any of six classes, but each
+character is best suited for one class. Each class can use about
+three different kinds of weapons, but if you don't invest
+everything in one kind of weapon, you'll be disadvantaged. Next,
+you can choose to invest skill points in weapon-specific special
+attacks. (If I recall there are about eight options, but they open
+up in a staggered way.) For Kampfs, each special attack is
+specified as either Combo 1, 2, or 3. You get bonuses for using
+the combo attacks in sequence. What this all amounts to is that
+once you decide your class and preferred weapon, everything is
+determined for the rest of the game, because you want one of each
+combo and the strongest version of it.
+
+The game is too easy too. You get way to much money and can buy
+whatever you want. Of course, there is rarely anything you'd want
+to buy, so it just accumulates.
+
+The story is interesting but there isn't anything too special
+about it.
+
+The game has a multi-player mode that I imagine would be fun,
+but I didn't use it.
+
+Overall, I can recommend the first third of the game, but
+during the second third I was hoping that something new and
+interesting would happen; when it didn't I quit.

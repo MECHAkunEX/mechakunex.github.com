@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Game: Panzer Dragoon (SAT, 1995)"
+date: 2010-02-28 00:00
+comments: true
+categories:
+- "Video Games"
+- "Panzer Dragoon"
+- "SAT"
+- "1995"
+---
+
+
+The first game I decided to play with my new Sega Saturn was
+Panzer Dragoon. When I first owned a Saturn, I bought Panzer
+Dragoon Saga, but I didn't appreciate its uniqueness. I assumed it
+would just be a normal JRPG and I don't really remember getting
+that into it.
+
+I decided to play this game because I enjoyed Sin and Punishment
+so much. I assumed that /Panzer/ would be an Ur-Sin and
+Punishment. It's strange because I didn't appreciate this game for
+the same reason I didn't appreciate /Saga/ when I was younger:
+different expectations.
+
+The core gameplay of /Panzer/ is definitely fun and
+a forebear of a kind of game that I really like, however, a lot of
+things didn't work for me. The controls left a lot to be desired,
+it was very easy to accidentally swing the camera more than the
+number of arcs you intended and I never felt in control of the
+dragon's position on the screen, so it was hard to avoid
+obstacles, etc. There is a severe lack of contrast between the
+enemies (and their bullets) and the background, so it is hard to
+tell what you need to shoot at or avoid. These two mechanical
+problems were pretty big deal breakers for me. The main difficulty
+I felt playing it was dealing with the systems, rather than an
+actual hurdle I needed to bring myself over. (This is, of course,
+a classic critique of many old games, but I think it fits this one
+appropriately because the exact gameplay has been done well in
+other places.)
+
+Nevertheless, there was a lot to enjoy about the game. First,
+the story is pretty epic. One of my favourite things, however, is
+that the story explains why you don't control the path of the
+Dragon (i.e., why it is on rails): you're not the true rider, he
+died and you happened to be there, his last words: "don't...let
+him [his killer] go back to The Tower...my dragon...knows the
+way..." Brilliant. Second, many of the level setups are really
+inspired and spectacular. The first was the giant sandworms in the
+second level. Gorgeous. The next was the boss in the third level:
+you have to dodge vertically these rotating fans. It worked really
+well and was different from the earlier segments. (BTW, I
+mentioned it was hard to dodge in general, but it was definitely
+easier vertically.) The next was the fourth level. Flying through
+the tiny tunnels makes you feel like Luke Skywalker taking out the
+Death Star. Also brilliant.
+
+Overall, I'd say that I would have loved this game when it first
+came out, but it is not worth it (for me) to spend my time
+perfecting my performance in it. I will definitely play the
+sequels, however.
