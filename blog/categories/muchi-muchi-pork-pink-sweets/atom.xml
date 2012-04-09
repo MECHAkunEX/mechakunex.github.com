@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Muchi Muchi Pork & Pink Sweets | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/muchi-muchi-pork-pink-sweets/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Muchi Muchi Pork & Pink Sweets (X360, 2011) (2)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2012/03/12/Game--Muchi-Muchi-Pork---Pink-Sweets--X360--2011--1/"/>
+    <updated>2012-03-12T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2012/03/12/Game--Muchi-Muchi-Pork---Pink-Sweets--X360--2011--1</id>
+    <content type="html"><![CDATA[<p>Pink Sweets - 364,870 points. 1-2 #562 #hiscore</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Muchi Muchi Pork & Pink Sweets (X360, 2011)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2012/01/01/Game--Muchi-Muchi-Pork---Pink-Sweets--X360--2011--0/"/>
+    <updated>2012-01-01T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2012/01/01/Game--Muchi-Muchi-Pork---Pink-Sweets--X360--2011--0</id>
+    <content type="html"><![CDATA[<p>Muchi Muchi Pork - 2,823,270 points. 1-2 #721 #hiscore</p>
+]]></content>
+  </entry>
+  
+</feed>

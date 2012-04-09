@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Etrian Odyssey | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/etrian-odyssey/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Etrian Odyssey (DS, 2007)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2010/09/26/Game--Etrian-Odyssey--DS--2007--0/"/>
+    <updated>2010-09-26T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2010/09/26/Game--Etrian-Odyssey--DS--2007--0</id>
+    <content type="html"><![CDATA[<p>When I went to visit my parents, I started playing Etrian Odyssey
+based on a discussion on Active Time Babble.</p>
+
+<p>I was able to get to the 20th floor. I had 34k in money with
+nothing to buy at the time. I completed every quest that was
+available. My party was: Landsknecht (57), Protector (57), Samurai
+(53), Medic (57), and an Alchemist (57).</p>
+
+<h1>Things I liked</h1>
+
+<p>I like mapping. It is really satisfying to enter an empty
+screen and slowly fill in all the corners and corridors on your
+map.</p>
+
+<p>I like the art style.</p>
+
+<p>I like the combat. Since the game is entirely combat
+(seriously, the story in its entirety is: "There is a dungeon
+outside the town."), it's natural that it will be fun and
+complex. It wasn't often that I could "phone it in" and just slam
+A. The way that attacks would build on each and the way that the
+Protector class worked were particularly cool.</p>
+
+<p>I like the grind. By my definition, an analogy for good grinding
+is when there is a wall, you know how to get over it, but you're
+not quite ready to jump it yet, so you need to practice jumping
+slightly smaller walls. In the context of the game, the wall is a
+boss or the normal monsters on the next level of the dungeon and
+you simply can't defeat them. The smaller walls are other monsters
+that actually require some plan or strategy to defeat. (For
+example, if you can just press A to defeat the next most difficult
+monsters before the boss, then it is boring grinding, but if the
+other fights will be difficult, than it is good grinding.) I think
+I liked this game so much because it was almost entirely good
+grinding. (In retrospect, Final Fantasy XIII did this really
+well.)</p>
+
+<p>I liked the flow of the game. Since there is no story, there is
+no interruption from the action. This means that there is always
+something to do and get better at. This really hits my pleasure
+receptors. =)</p>
+
+<h1>Things I didn't like</h1>
+
+<p>The mapping system isn't advanced enough. There were many times
+where I wanted to express something---like the link between a
+portal's entrance and exit, or the fact that a corridor/door was
+one-way---where there was no way to do it. I could always encode
+the property some way, but it was unsatisfying that someone else
+wouldn't be able to read my map. It was also annoying that there
+is a limit to the number of certain elements on each map floor. In
+one case, I had to use the trap symbol to indicate the absence of
+a trap because there were so many.</p>
+
+<p>The character customization didn't have enough feedback on what
+would be different in combat. This is particularly relevant, IMHO,
+because you couldn't upgrade everything (there just aren't enough
+levels.) But it was often the case that I wasn't exactly sure what
+upgrading a skill would really do in practice.</p>
+
+<p>I stopped playing because I got to a point where the difficulty
+curve steepened drastically and I couldn't bear the slog
+through. Basically, it got to the point where the only grinding I
+could do was boring grinding because I was too powerful for the
+second worst enemy but not powerful enough to clear the worst
+enemy and I wasn't making enough improvement after a few weeks of
+sporadic play.</p>
+]]></content>
+  </entry>
+  
+</feed>

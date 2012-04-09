@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: MAME | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/mame/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Top Hunter - Roddy & Cathy (MAME, 1994)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2011/04/14/Game--Top-Hunter---Roddy---Cathy--MAME--1994--0/"/>
+    <updated>2011-04-14T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2011/04/14/Game--Top-Hunter---Roddy---Cathy--MAME--1994--0</id>
+    <content type="html"><![CDATA[<p>I just played through Top Hunter: Roddy &amp; Cathy. I found out about
+the game through <a href="http://www.racketboy.com/retro/2007/02/best-undiscovered-neo-geo-games.html">Racketboy's Undiscovered Neo-Geo Games</a> list.</p>
+
+<p>The game is a side-scrolling action game with two planes of
+movement. You can jump from one plane to the other and most of the
+action in the game revolves around quickly and accurately getting
+on the correct plane. Even though there is jumping, this isn't
+really a platforming game, because it stays on one path mostly and
+there are rarely obstacles to jump over. There are four
+worlds---each with two levels, one mid-boss, and one main boss;
+followed by a final level with only a boss---which is actually a
+six boss rush.</p>
+
+<p>There are some interesting mechanics in the game. You can grab
+things from a distance by stretching your arm. This allows you to
+grab things from far away, as well as punch from a distance. Most
+of the "puzzles" are about doing this effectively. There is a very
+low time limit on the game and there are items that allow increase
+it by 5, 10, or 20 seconds. I thought this would be stressful, but
+I didn't notice it at all. (That might have been because I
+credit-fed.)</p>
+
+<p>The animation is not nearly as good as Metal Slug, but it is
+decent. There is a little bit of quirkiness. For example, there is
+a funny animal in the final stage... the enemies will often wave
+white flags at you... etc. There are some good details too: for
+example, most vehicles are destructible and you can throw their
+parts at the enemies once they are destroyed.</p>
+
+<p>Overall, the game had a very basic and repetitive design. Most of
+the enemies and bosses were dealt with in the same way. I didn't
+feel it was very deep. I could imagine feeling it was a bit deeper
+if I restricted my credit usage. I would typically use 2 on a boss
+and .5 on a level. I assume that most of the challenge of getting
+credit usage down would be very much luck: enemies hit for a
+lot.</p>
+
+<p>I played through it in under an hour. I'd say it was worth
+it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Metal Slug 1 (MAME, 1996)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2009/12/22/Game--Metal-Slug-1--MAME--1996--0/"/>
+    <updated>2009-12-22T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2009/12/22/Game--Metal-Slug-1--MAME--1996--0</id>
+    <content type="html"><![CDATA[<p>Last night I played through Metal Slug for the Neo-Geo. I didn't
+do very well: I got 508k points and used 28 continues. Ouch. It
+was really fun though. The graphics in this game are /amazing/! I
+have a hard time thinking of a modern game that is as
+beautiful. The only real problem with the game is that shooting
+diagonally is a big pain, but I probably just need practice. I
+can't wait to play it again or play sequels!</p>
+]]></content>
+  </entry>
+  
+</feed>

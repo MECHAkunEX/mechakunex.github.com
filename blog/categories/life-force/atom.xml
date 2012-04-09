@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Life Force | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/life-force/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Life Force (NES, 1987)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2011/11/20/Game--Life-Force--NES--1987--0/"/>
+    <updated>2011-11-20T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2011/11/20/Game--Life-Force--NES--1987--0</id>
+    <content type="html"><![CDATA[<p>I tried to play this shooter, but not only is it a poor version of
+Gradius, I've never been able to really get into Gradius. I hope
+to find a Gradius-style game that I am willing to put in the time
+for, but after going through the first level of this game, it was
+clear that it was not this.</p>
+]]></content>
+  </entry>
+  
+</feed>

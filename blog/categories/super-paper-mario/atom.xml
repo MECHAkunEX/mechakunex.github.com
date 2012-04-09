@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Super Paper Mario | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/super-paper-mario/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Super Paper Mario (Wii, 2007)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2007/01/01/Game--Super-Paper-Mario--Wii--2007--0/"/>
+    <updated>2007-01-01T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2007/01/01/Game--Super-Paper-Mario--Wii--2007--0</id>
+    <content type="html"><![CDATA[<p>I got this with my Wii and it was really awesome.</p>
+]]></content>
+  </entry>
+  
+</feed>

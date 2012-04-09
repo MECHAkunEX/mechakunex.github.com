@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Metal Gear: Ghost Babel | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/metal-gear-ghost-babel/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Metal Gear: Ghost Babel (GBC, 2000)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2011/05/17/Game--Metal-Gear--Ghost-Babel--GBC--2000--0/"/>
+    <updated>2011-05-17T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2011/05/17/Game--Metal-Gear--Ghost-Babel--GBC--2000--0</id>
+    <content type="html"><![CDATA[<p>I played through Metal Gear Solid: Ghost Babel over the past three
+days. This is a Game Boy Color game. At first, I assumed it would
+basically be just like the first two Metal Gear games for the
+MSX. It is, but it has clearly greatly evolved. This is the
+perfect 2D Metal Gear. It makes me think (like I think for so many
+series) how much better the series would be if it stuck in 2D but
+got bigger, better, and more beautiful.</p>
+
+<p>I'm amazed at how many of the mechanics from MGS they were able to
+integrate into the game. For example, looking around walls is done
+brilliantly. Tapping on walls works great. All the weapons
+return. It's really a spectacular game. In some ways I'd say it is
+better than MGS because many mechanics actually appear multiple
+times. For example, there's really only one time you need to use
+the Nikita Missiles in MGS (when you destroy the only electrical
+panel in the game), but there are many instances in this
+game. Same thing with the C4; there's one occurrences in MGS, but
+many in this. I like the richness of that.</p>
+
+<p>This game is technically linear and broken into stages, but in
+many ways that is totally fine and a little inaccurate. It's a bit
+inaccurate because there are many stages where you revisit areas
+from previous stages (but that's a severe minority.) It's totally
+fine because if you really break it down, MGS was linear too:
+there is very sparse back-tracking. For example, once you go to
+Otacon's lab, there's no reason to ever go back, even though you
+could. This game just turns that admission into something enforced
+by the game. Still though, each stage is really large and they
+individually contain a lot of back-tracking. But really,
+back-tracking (the need to go to old areas) and open world (the
+technical ability to revisit old areas) are not valuable in and of
+themselves. What is valuable is when the world feels "real" and
+not artificial like a traditional stage-based game. This game
+really makes the world feel real because of the way that things
+connect and the size of the areas generally. In fact, I really see
+a lot of this game in MGS4, which has a similar open-world
+stage-based setup, where many areas have internal sections that
+don't allow back-tracking.</p>
+
+<p>I really want to think about this game as the basis for another 2D
+Metal Gear-style game.</p>
+
+<p>Here are the stats that I got:</p>
+
+<p>Play Time: 02:56:07
+Being Found: 001 times
+Enemies: 000 killed
+Rations: 008 used
+Code Name: Spider</p>
+
+<p>I was able to get such scores by using save states and always
+restarting a room if I got caught. I don't feel this is cheating
+because I still had to overcome the obstacle myself. It's really
+an efficient way to do the traditional MGS Extreme mode where you
+get a Game Over when you get caught. If I made an MGS-style game,
+it would have this be an option and have it really stream-lined
+(maybe Super Meat Boy streamlined.)</p>
+
+<p>I highly recommend this game.</p>
+]]></content>
+  </entry>
+  
+</feed>

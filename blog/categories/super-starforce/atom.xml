@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Super Starforce | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/super-starforce/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Super Starforce (NES, 1986)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2011/09/01/Game--Super-Starforce--NES--1986--0/"/>
+    <updated>2011-09-01T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2011/09/01/Game--Super-Starforce--NES--1986--0</id>
+    <content type="html"><![CDATA[<p>This sounded like a really cool game: a combination of a shooter
+and an adventure game where you travel through connected stages,
+etc. Unfortunately, I found it impossible to understand what I was
+supposed to do. I intend to give it another chance, maybe after
+reading a manual, but I couldn't cope with it when I tried it the
+first time.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Cave Story | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/cave-story/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Cave Story (PC, 2004)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2010/04/17/Game--Cave-Story--PC--2004--0/"/>
+    <updated>2010-04-17T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2010/04/17/Game--Cave-Story--PC--2004--0</id>
+    <content type="html"><![CDATA[<p>Over the past few days, I've played through Cave Story on the
+PC. (It has recently been re-released in an updated form for
+WiiWare.)</p>
+
+<p>It has a very unique and fun mix of Mega Man, Metroid, and
+Adventure-style game play. I played through the "Hard" version of
+the game where you get Booster 2.0 and I played through the "Hell"
+final area as well.</p>
+
+<p>I highly recommend it. It is free to download and it's very
+fun. It inspires me to work more often on my game ideas.</p>
+]]></content>
+  </entry>
+  
+</feed>

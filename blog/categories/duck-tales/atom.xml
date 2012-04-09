@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Duck Tales | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/duck-tales/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Duck Tales (NES, 1989)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2012/01/17/Game--Duck-Tales--NES--1989--0/"/>
+    <updated>2012-01-17T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2012/01/17/Game--Duck-Tales--NES--1989--0</id>
+    <content type="html"><![CDATA[<p>I played the Amazon and got to the boss, but died and then I had
+to pay the 300k to get to the boss again. That is unbelievably
+unfair and I'm not interested in grinding a platform game. This is
+a fun game, but that's too lame in my mind.</p>
+]]></content>
+  </entry>
+  
+</feed>

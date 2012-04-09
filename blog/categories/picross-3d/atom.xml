@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Picross 3D | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/picross-3d/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Picross 3D (DS, 2010)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2011/02/24/Game--Picross-3D--DS--2010--0/"/>
+    <updated>2011-02-24T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2011/02/24/Game--Picross-3D--DS--2010--0</id>
+    <content type="html"><![CDATA[<p>For approximately the last year, I've been doing a puzzle from
+Picross 3D every day. Today I finally got a "Perfect" score on
+every puzzle in the game. I will move on to my next puzzle game. I
+really like doing a puzzle every day, because I think it helps
+keep a part of my mind fresh.</p>
+
+<p>I thought that Picross 3D was easier than Picross DS, in
+general. There were a few things that were a little harder, but
+overall the algorithm for solving a puzzle is a bit simpler. Still
+it was fun to do and interesting to see what your creation was
+after the fact.</p>
+]]></content>
+  </entry>
+  
+</feed>

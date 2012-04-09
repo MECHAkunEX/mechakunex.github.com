@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Portal | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/portal/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Portal (PC, 2007)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2011/05/06/Game--Portal--PC--2007--0/"/>
+    <updated>2011-05-06T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2011/05/06/Game--Portal--PC--2007--0</id>
+    <content type="html"><![CDATA[<p>I played through Portal over
+the last little bit. The game is really clever and unique. The
+puzzles were nothing quite like I've experienced before and the
+story is clever. I love the idea that you break out of a puzzle
+game and use your skills "against" the game in the "real
+world".</p>
+
+<p>Definitely a great and memorable game.</p>
+]]></content>
+  </entry>
+  
+</feed>

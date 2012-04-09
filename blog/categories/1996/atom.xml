@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 1996 | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/1996/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Metal Slug 1 (MAME, 1996)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2009/12/22/Game--Metal-Slug-1--MAME--1996--0/"/>
+    <updated>2009-12-22T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2009/12/22/Game--Metal-Slug-1--MAME--1996--0</id>
+    <content type="html"><![CDATA[<p>Last night I played through Metal Slug for the Neo-Geo. I didn't
+do very well: I got 508k points and used 28 continues. Ouch. It
+was really fun though. The graphics in this game are /amazing/! I
+have a hard time thinking of a modern game that is as
+beautiful. The only real problem with the game is that shooting
+diagonally is a big pain, but I probably just need practice. I
+can't wait to play it again or play sequels!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Star Ocean (SNES, 1996)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2008/10/01/Game--Star-Ocean--SNES--1996--0/"/>
+    <updated>2008-10-01T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2008/10/01/Game--Star-Ocean--SNES--1996--0</id>
+    <content type="html"><![CDATA[<p>Played on emulator.</p>
+]]></content>
+  </entry>
+  
+</feed>

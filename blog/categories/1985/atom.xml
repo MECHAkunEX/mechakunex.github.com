@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 1985 | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/1985/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Yie Ar Kung-Fu (NES, 1985)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2011/11/11/Game--Yie-Ar-Kung-Fu--NES--1985--0/"/>
+    <updated>2011-11-11T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2011/11/11/Game--Yie-Ar-Kung-Fu--NES--1985--0</id>
+    <content type="html"><![CDATA[<p>I played Yie Ar Kung-Fu for my Famicom tonight. I got it when I
+bought the Famicom and I read that it was one of the first
+fighting games.</p>
+
+<p>It's not very good. I think the main problem I have with it is
+that hit box detection is terrible. You can have your foot in the
+enemy's skull and it doesn't register a hit. The diagonal jumping
+control is also really off.</p>
+
+<p>But, I can see how the principles of this game have gone on to
+more developed games, and I appreciated it for that.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Super Mario Bros (NES, 1985)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2009/11/25/Game--Super-Mario-Bros--NES--1985--0/"/>
+    <updated>2009-11-25T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2009/11/25/Game--Super-Mario-Bros--NES--1985--0</id>
+    <content type="html"><![CDATA[<p>Over the past month I've been playing this for the NES. Of course,
+I played that game a lot when I was growing up, but I had never
+beat it or experienced every level. It remains fun and challenging
+to this day. When I started playing, I didn't remember that you
+needed to go through particular paths in many of the castles, so
+that was a really fun challenge this time around. The final castle
+in particular is a pain in the neck with all the different
+pipes. I was really excited to finally save Princess Toadstool;
+she's been waiting a long time for me.</p>
+
+<p>I used save states and got a score of 443900 with 23 coins and 7
+extra lives. There is a save state at the start screen of the
+second quest.</p>
+]]></content>
+  </entry>
+  
+</feed>

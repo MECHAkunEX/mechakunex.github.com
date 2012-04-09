@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Double Dragon | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/double-dragon/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Double Dragon (NES, 1988)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2012/01/10/Game--Double-Dragon--NES--1988--0/"/>
+    <updated>2012-01-10T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2012/01/10/Game--Double-Dragon--NES--1988--0</id>
+    <content type="html"><![CDATA[<p>I played a bunch of Double Dragon the other day.</p>
+
+<p>This was a really memorable game for me when I was young. However,
+playing through a bunch of it recently really made it seem pretty
+lame. I pretty much steam-rolled the game up through the end of
+Mission 3, but then I was stopped by the hordes of knife
+enemies. There was really any special about the game and its pace
+was too glacial for my taste.</p>
+]]></content>
+  </entry>
+  
+</feed>

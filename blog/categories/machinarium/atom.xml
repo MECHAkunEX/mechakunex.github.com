@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Machinarium | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/machinarium/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Machinarium (PC, 2009)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2010/05/07/Game--Machinarium--PC--2009--0/"/>
+    <updated>2010-05-07T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2010/05/07/Game--Machinarium--PC--2009--0</id>
+    <content type="html"><![CDATA[<p>Over the past week or so, I've played through Machinarium, a Flash
+game available on many platforms---I played on the Mac.</p>
+
+<p>It was a very enjoyable point-and-click adventure game. I
+haven't played one of those in a while, so it was very fresh for
+me. The graphics were beautiful, to a totally stunning degree. The
+puzzles were interesting without being opaque or infuriating. (The
+only annoyances were the Tic-Tac-Toe game and the bad top-down
+shooting/exploration mini-game at the end---it was bad because the
+controls were horrible.) My favourite puzzles were the many
+Sokoban variants, particularly the one in the Arcade and the
+string of beads.</p>
+
+<p>I got the game <a href="http://www.indiegames.com/blog/2010/04/machinarium_for_mac_free_today.html">for free</a>, so it was totally worth it. It costs <a href="http://www.macgamestore.com/detail.php?ProductID=1287">$20</a>
+and I'd say it is worth closer to $15.</p>
+]]></content>
+  </entry>
+  
+</feed>

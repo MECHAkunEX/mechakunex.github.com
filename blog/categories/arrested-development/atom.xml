@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Arrested Development | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/arrested-development/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-09T15:40:16-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Arrested Development]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2011/01/01/Arrested-Development-0/"/>
+    <updated>2011-01-01T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2011/01/01/Arrested-Development-0</id>
+    <content type="html"><![CDATA[<p>Watched in early 2011</p>
+]]></content>
+  </entry>
+  
+</feed>
