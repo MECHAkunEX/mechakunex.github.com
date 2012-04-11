@@ -14,4 +14,4 @@ Fought Bald Bull 3 times, in the last time I switch hands for the
 bull charge counter (after being knocked once) and opened with the
 4 upper cuts and got him down in the first round after
 2:38.82. Each time I fought GT except the last I did it with no
-damage! Password: 667 833 7533    
+damage! Password: 667 833 7533
