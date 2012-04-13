@@ -30,5 +30,4 @@ I looked on HowLongToBeat and there are 6 playthroughs, all over
 the game that much and it suggests to me that it could be really
 grind heavy, which would be terrible.
 
-Nevertheless, I'm pretty excited about seeing what it is like.
-
+Nevertheless, I'm pretty excited about seeing what it is like.    
