@@ -23,3 +23,5 @@ In the combat setup of unions, units, etc I feel like I'm just
 making random decisions though. There are so many different
 numbers and combinations, I don't understand how to optimize it,
 so I'm just getting by.
+
+Total time: 2:15
