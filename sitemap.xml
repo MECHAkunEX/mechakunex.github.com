@@ -1785,12 +1785,6 @@
         <lastmod>2012-04-09T14:53:23-06:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://MECHAkunEX.github.com/blog/2012/02/05/Game--Professor-Layton-and-the-Last-Specter--DS--2011--0/
-        </loc>
-        <lastmod>2012-04-09T13:25:15-06:00</lastmod>
-    </url>
-    <url>
         <loc>http://MECHAkunEX.github.com/blog/2012/02/06/Battlestar-Galactica---Razor-0/</loc>
         <lastmod>2012-04-09T13:25:15-06:00</lastmod>
     </url>
@@ -2451,15 +2445,27 @@
         <lastmod>2012-04-17T07:11:51-06:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://MECHAkunEX.github.com/blog/2012/04/17/Game--Professor-Layton-and-the-Last-Specter--DS--2011--0/
+        </loc>
+        <lastmod>2012-04-17T23:52:51-06:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://MECHAkunEX.github.com/blog/2012/04/17/Game--The-Last-Remnant--X360--2008--5/
+        </loc>
+        <lastmod>2012-04-17T23:52:51-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://MECHAkunEX.github.com/blog/archives/</loc>
-        <lastmod>2012-04-17T07:11:51-06:00</lastmod>
+        <lastmod>2012-04-17T23:52:51-06:00</lastmod>
     </url>
     <url>
         <loc>http://MECHAkunEX.github.com/games.html</loc>
-        <lastmod>2012-04-17T07:11:51-06:00</lastmod>
+        <lastmod>2012-04-17T23:52:52-06:00</lastmod>
     </url>
     <url>
         <loc>http://MECHAkunEX.github.com/</loc>
-        <lastmod>2012-04-17T07:11:51-06:00</lastmod>
+        <lastmod>2012-04-17T23:52:51-06:00</lastmod>
     </url>
 </urlset>
