@@ -13,8 +13,11 @@ categories:
 I played for about three hours today. I got to the part where
 Squad 7 is officially formed and did the first Skirmish twice
 (once on each difficulty level.) I think that'll be my
-method... whenever there is a new Skirmish, do it twice. So far, I
-really like the game. The gameplay is really unique and
+method... whenever there is a new Skirmish, do it twice. Or maybe
+I'll play them until I can (a) level everyone and (b) buy every
+available upgrade.
+
+So far, I really like the game. The gameplay is really unique and
 interesting... there's a lot of strategy to it. The story, which
 at this point is more of just a setting, is really compelling. I
 can't wait to play more. I found the opening swell as they left
