@@ -133,6 +133,10 @@ module Jekyll
   # Adds some extra filters used during the category creation process.
   module Filters
 
+    def category_link(item)
+      "<a class='category' href='/blog/categories/#{item.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase}/'>#{item}</a>"
+    end
+
     # Outputs a list of categories as comma-separated <a> links. This is used
     # to output the category list for each post on a category page.
     #
@@ -141,9 +145,8 @@ module Jekyll
     # Returns string
     #
     def category_links(categories)
-      dir = @context.registers[:site].config['category_dir']
       categories = categories.sort!.map do |item|
-        "<a class='category' href='/#{dir}/#{item.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase}/'>#{item}</a>"
+        category_link(item)
       end
 
       case categories.length
