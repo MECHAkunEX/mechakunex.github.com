@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Kingdom Hearts 2 | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/kingdom-hearts-2/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-04-28T22:44:39-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Kingdom Hearts 2 (PS2, 2006)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2007/12/31/Game--Kingdom-Hearts-2--PS2--2006--0/"/>
+    <updated>2007-12-31T00:00:00-07:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2007/12/31/Game--Kingdom-Hearts-2--PS2--2006--0</id>
+    <content type="html"><![CDATA[<p>I beat this game after playing FF12 while I lived with my wife's
+parents before we moved, but I'm not sure exactly when it was.</p>
+]]></content>
+  </entry>
+  
+</feed>
