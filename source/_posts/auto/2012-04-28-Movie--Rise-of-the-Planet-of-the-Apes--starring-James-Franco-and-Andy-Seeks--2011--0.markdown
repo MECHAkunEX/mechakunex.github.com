@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie: Rise of the Planet of the Apes, starring James Franco and Andy Serkis (2011)"
+title: "Movie: Rise of the Planet of the Apes, starring James Franco and Andy Seeks (2011)"
 date: 2012-04-28 00:00
 comments: true
 categories:

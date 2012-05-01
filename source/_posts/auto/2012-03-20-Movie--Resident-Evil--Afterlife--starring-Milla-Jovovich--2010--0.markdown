@@ -81,4 +81,3 @@ there is a large amount of slow motion which seems incredibly
 tedious---especially in Claire's fight in the shower. The action is
 slower paced in general, but I think that is good, because you can
 appreciate it more.
-
