@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Game: Akumajou Dracula X: Chi No Rondo (PCE, 1993)"
+title: "Game: Akumajou Dracula X: Chi No Rondo (TG-16 CD, 1993)"
 date: 2009-11-25 00:00
 comments: true
 categories:
 - "Video Games"
 - "Akumajou Dracula X: Chi No Rondo"
-- "PCE"
+- "TG-16 CD"
 - "1993"
 ---
 
