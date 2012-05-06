@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Movie: Underworld: Awakening, starring Kate Beckinsale (2012)"
-date: 2012-05-05 00:00
+date: 2012-05-04 00:00
 comments: true
 categories:
 - "Movies"
