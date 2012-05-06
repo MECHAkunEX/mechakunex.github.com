@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /home/jay/Dev/scm/blogs/mechakunex.github.com
+cd ~/Dev/scm/blogs/mechakunex.github.com
 export DONT_RANK=1
 
 game-rank && \
