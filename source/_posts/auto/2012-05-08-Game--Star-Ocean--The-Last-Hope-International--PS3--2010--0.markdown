@@ -24,12 +24,17 @@ that has Earth as a real place. I wonder if it is supposed to be
 in the same continuity as the other games? The gameplay seems like
 it will be cool. The battle system tutorial was incredibly
 complicated and I did during the battle three times before
-winning. That makes me hopeful. The graphics are pretty good,
-although the camera controls are a little too "tight" for my taste
-so far. I got a little stuck walking around in the space ship. I
-think the problem is that the world is so "bright" that it's hard
-to notice something you can bump into. Anyways, the majority of
-the time was spent in videos, so I don't really have a good feel
-for the game yet.
+winning. That makes me hopeful, although a little bit of the time
+I felt like I was losing because I couldn't target the thing I
+wanted. The graphics are pretty good, although the characters are
+verrry anime-y and from some angles their clothes really clash
+with their faces. (For example, the guy on the computer screen
+that Edge talks to.) The controls are responsive.  Although the
+camera controls are a little too "tight" for my taste so far. I
+got a little stuck walking around in the space ship. I think the
+problem is that the world is so "bright" that it's hard to notice
+something you can bump into. Anyways, the majority of the time was
+spent in videos, so I don't really have a good feel for the game
+yet.
 
 Total: 1:03
