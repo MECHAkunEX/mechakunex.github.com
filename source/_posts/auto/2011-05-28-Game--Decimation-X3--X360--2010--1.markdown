@@ -10,4 +10,5 @@ categories:
 - "2010"
 ---
 
-Decimation X3 - Challenge Mode - Level 36: 1,681,172 points. #hiscore    
+Decimation X3 - Challenge Mode - Level 36: 1,681,172
+points. #hiscore
