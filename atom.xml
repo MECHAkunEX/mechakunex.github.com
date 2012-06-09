@@ -4,7 +4,7 @@
   <title><![CDATA[MECHAkunEX Media Diary]]></title>
   <link href="http://MECHAkunEX.github.com/atom.xml" rel="self"/>
   <link href="http://MECHAkunEX.github.com/"/>
-  <updated>2012-06-07T22:53:07-06:00</updated>
+  <updated>2012-06-08T22:54:56-06:00</updated>
   <id>http://MECHAkunEX.github.com/</id>
   <author>
     <name><![CDATA[MECHAkunEX]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Dark Souls (PS3, 2011) (10)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2012/06/08/Game--Dark-Souls--PS3--2011--9/"/>
+    <updated>2012-06-08T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2012/06/08/Game&#8211;Dark-Souls&#8211;PS3&#8211;2011&#8211;9</id>
+    <content type="html"><![CDATA[<p>I played for about three hours and got to the first boss of Anor
+Londo today after finally getting past the Skeleton
+Archers. Totally brutal. It was very challenging to fight all the
+Knights as well, but I was able to get most of them to follow me
+to a place I could fight them one-on-one in peace. The boss is
+insane, because there are two of them, I can&#8217;t really defend
+properly. I think I need a fire-based weapon to be able to do
+it. I decided to go to the Painted World again and do a little
+grinding to get stronger.</p>
+
+<p>TODO list:
+- Kill Stray Demon (in Aslyum)
+- Upgrade Iaito to Fire element
+- Explore the rest of Sen&#8217;s Fortress (Pit)
+- Kill Poison Dragon and final girl in Painted World
+- Go to Abyss
+- Go to New Londo Ruins
+- Go to Dragon Valley</p>
+
+<p>SL: 60</p>
+
+<p>Vit: 35
+Att:  8!
+End: 34
+Str: 16!
+Dex: 20!
+Res: 11!
+Int:  9!
+Fai:  9!</p>
+
+<p>Total Time: 27:31</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Book: Joseph Smith: Rough Stone Rolling: A Cultural Biography of Mormonism's Founder, by Richard L. Bushman (2005)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2012/06/08/Book--Joseph-Smith--Rough-Stone-Rolling--A-Cultural-Biography-of-Mormonism-s-Founder--by-Richard-L--Bushman--2005--0/"/>
+    <updated>2012-06-08T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2012/06/08/Book&#8211;Joseph-Smith&#8211;Rough-Stone-Rolling&#8211;A-Cultural-Biography-of-Mormonism-s-Founder&#8211;by-Richard-L&#8211;Bushman&#8211;2005&#8211;0</id>
+    <content type="html"><![CDATA[<p>In my third or fourth time reading the book, I enjoyed it just as
+much as past times. It was one of the first books I ever read about
+<em>REDACTED</em>ism, so it defined my thinking in many ways. On this most
+recent reading, I noticed that many things I find particularly
+interesting were only discussed very briefly. Despite being
+incredibly long, on one hand it is a tiny thimble-full of what you
+could learn about Joseph Smith and early <em>REDACTED</em>ism.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Game: Deadly Premonition (X360, 2010) (8)]]></title>
@@ -43,7 +97,10 @@ dumb. I love the way this game makes you feel dumb when you die.</p>
 - Kill Stray Demon (in Aslyum)
 - Upgrade Iaito to Fire element
 - Explore the rest of Sen&#8217;s Fortress (Pit)
-- Kill Poison Dragon and final girl in Painted World</p>
+- Kill Poison Dragon and final girl in Painted World
+- Go to Abyss
+- Go to New Londo Ruins
+- Go to Dragon Valley</p>
 
 <p>SL: 58</p>
 
@@ -458,26 +515,6 @@ Fai:  9!</p>
     <id>http://MECHAkunEX.github.com/blog/2012/05/28/Game&#8211;Sin&#8212;Punishment&#8211;Star-Successor&#8211;Wii&#8211;2010&#8211;6</id>
     <content type="html"><![CDATA[<p>Got to the next boss! I played for like an hour tonight trying
 over and over again&#8230; but I did it! Only two more bosses to go!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Game: Decimation X3 (X360, 2010) (3)]]></title>
-    <link href="http://MECHAkunEX.github.com/blog/2012/05/28/Game--Decimation-X3--X360--2010--2/"/>
-    <updated>2012-05-28T00:00:00-06:00</updated>
-    <id>http://MECHAkunEX.github.com/blog/2012/05/28/Game&#8211;Decimation-X3&#8211;X360&#8211;2010&#8211;2</id>
-    <content type="html"><![CDATA[<p>New high score&#8230; a year after my last one: Level 33: 1,733,455
-points.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Game: Professor Layton and the Last Specter (DS, 2011) (4)]]></title>
-    <link href="http://MECHAkunEX.github.com/blog/2012/05/27/Game--Professor-Layton-and-the-Last-Specter--DS--2011--3/"/>
-    <updated>2012-05-27T00:00:00-06:00</updated>
-    <id>http://MECHAkunEX.github.com/blog/2012/05/27/Game&#8211;Professor-Layton-and-the-Last-Specter&#8211;DS&#8211;2011&#8211;3</id>
-    <content type="html"><![CDATA[<p>Puzzle 26 (a moving block puzzle) took me 2641 steps&#8230; the
-optimal is just 30 moves.</p>
 ]]></content>
   </entry>
   
