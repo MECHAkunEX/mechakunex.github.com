@@ -27,6 +27,9 @@ TODO list:
 - Upgrade Iaito to Fire element
 - Explore the rest of Sen's Fortress (Pit)
 - Kill Poison Dragon and final girl in Painted World
+- Go to Abyss
+- Go to New Londo Ruins
+- Go to Dragon Valley
 
 SL: 58
 
