@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Game: Dark Souls (PS3, 2011) (11)"
+date: 2012-06-19 00:00
+comments: true
+categories:
+- "Video Games"
+- "Dark Souls"
+- "PS3"
+- "2011"
+---
+
+I played for about an hour today. I gained a level in the Painted
+World and then worked my way back so I could explore the Darkroot
+Garden. I killed the Butterfly and unlocked the magic door, but
+then stopped for the night.
+
+TODO list:
+- Kill Stray Demon (in Aslyum)
+- Upgrade Iaito to Fire element
+- Explore the rest of Sen's Fortress (Pit)
+- Kill Poison Dragon and final girl in Painted World
+- Go to Abyss
+- Go to New Londo Ruins
+- Go to Dragon Valley
+
+SL: 61
+
+Vit: 35
+Att:  8!
+End: 35
+Str: 16!
+Dex: 20!
+Res: 11!
+Int:  9!
+Fai:  9!
+
+Total Time: 28:30

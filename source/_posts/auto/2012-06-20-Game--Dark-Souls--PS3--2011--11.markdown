@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Game: Dark Souls (PS3, 2011) (12)"
+date: 2012-06-20 00:00
+comments: true
+categories:
+- "Video Games"
+- "Dark Souls"
+- "PS3"
+- "2011"
+---
+
+I played through the rest of the Darkroot Forest and killed the
+boss and got some awesome equipment. At first when I tried to get
+Pharis' bow, he fell off the cliff and so I didn't get it. But
+later I reversed my hollowing and there was a flame where Pharis
+used to be, so I got his stuff. Awesome! My stats are now a lot
+higher because of the ring.
+
+TODO list:
+- Kill Stray Demon (in Aslyum)
+- Upgrade Iaito to Fire element
+- Explore the rest of Sen's Fortress (Pit)
+- Kill Poison Dragon and final girl in Painted World
+- Go to Abyss
+- Go to New Londo Ruins
+- Go to Dragon Valley
+
+SL: 66
+
+Vit: 37
+Att:  8!
+End: 38
+Str: 16!
+Dex: 20!
+Res: 11!
+Int:  9!
+Fai:  9!
+
+Total Time: 29:50
