@@ -61,7 +61,7 @@ about it.
 My play order had a large effect on my enjoyment of the game. I
 started in World 1, as you must, and got to the end of 1-2, but a
 large fog gate prevented my passing until I had completed another
-world. I played 1-1, but the Armor Spider got the best of me. I
+world. I played 2-1, but the Armor Spider got the best of me. I
 went to 3-1 to get light armor and got a large shield from enemies
 in 1-2. Once I dropped my heavy armor and had a huge shield, the
 game got a lot easier: being quick is very important in this game
