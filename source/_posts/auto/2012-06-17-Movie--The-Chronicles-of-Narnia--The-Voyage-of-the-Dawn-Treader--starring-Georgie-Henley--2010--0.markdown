@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie: The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+title: "Movie: The Chronicles of Narnia: The Voyage of the Dawn Treader, starring Georgie Henley (2010)"
 date: 2012-06-17 00:00
 comments: true
 categories:

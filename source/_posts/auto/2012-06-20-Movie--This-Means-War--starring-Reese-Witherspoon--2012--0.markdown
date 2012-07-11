@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie: This Means War (2012)"
+title: "Movie: This Means War, starring Reese Witherspoon (2012)"
 date: 2012-06-20 00:00
 comments: true
 categories:

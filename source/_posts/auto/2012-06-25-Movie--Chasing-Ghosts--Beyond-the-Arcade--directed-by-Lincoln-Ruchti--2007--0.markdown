@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie: Chasing Ghosts: Beyond the Arcade (2007)"
+title: "Movie: Chasing Ghosts: Beyond the Arcade, directed by Lincoln Ruchti (2007)"
 date: 2012-06-25 00:00
 comments: true
 categories:
