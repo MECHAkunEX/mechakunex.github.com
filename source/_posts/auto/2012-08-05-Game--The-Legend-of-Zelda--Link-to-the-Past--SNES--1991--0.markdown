@@ -20,3 +20,6 @@ started getting frustrated because he kept dying. His problem was
 that he wouldn't move away from enemies when they came to attack
 him. He would swing his sword while the enemies were on top of him
 and this killed him eventually.
+
+We got to the boss of the first temple, but I died during the
+stomping part.
