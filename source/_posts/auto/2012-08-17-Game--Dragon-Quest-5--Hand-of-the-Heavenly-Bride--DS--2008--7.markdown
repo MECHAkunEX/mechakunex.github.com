@@ -24,4 +24,6 @@ wife use the Sage Stone every round; use the main character and my
 son to attack; and then use my daughter to buff/debuff and use
 staves for other effects, including healing. It worked awesome.
 
+[A great review](http://www.telebunny.net/toastywiki/index.php/Games/DragonQuestVHeavenlyHeartbreak).
+
 Total time: 22:53
