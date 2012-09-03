@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mega Man X1 | MECHAkunEX Media Diary]]></title>
+  <link href="http://MECHAkunEX.github.com/blog/categories/mega-man-x1/atom.xml" rel="self"/>
+  <link href="http://MECHAkunEX.github.com/"/>
+  <updated>2012-09-02T22:22:12-06:00</updated>
+  <id>http://MECHAkunEX.github.com/</id>
+  <author>
+    <name><![CDATA[MECHAkunEX]]></name>
+    <email><![CDATA[MECHAkunEX@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game: Mega Man X1 (SNES, 1993)]]></title>
+    <link href="http://MECHAkunEX.github.com/blog/2012/09/02/Game--Mega-Man-X1--SNES--1993--0/"/>
+    <updated>2012-09-02T00:00:00-06:00</updated>
+    <id>http://MECHAkunEX.github.com/blog/2012/09/02/Game--Mega-Man-X1--SNES--1993--0</id>
+    <content type="html"><![CDATA[<p>My son I played this for about 15 minutes and played the Launched
+Octopus level. The Sea Dragon got me and put me back at the
+second miniboss.</p>
+]]></content>
+  </entry>
+  
+</feed>
