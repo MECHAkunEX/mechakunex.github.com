@@ -11,4 +11,5 @@ categories:
 This was an awesome episode. Lots of very exciting things
 happened. However, it was mostly tragic. I feel like it is just
 getting us ready for the good things that will happen in the NEXT
-episode.
+episode. Lord Grantham's kiss was ridiculously out of place in my
+opinion.
