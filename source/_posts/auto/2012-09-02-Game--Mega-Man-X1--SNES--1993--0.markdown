@@ -10,6 +10,8 @@ categories:
 - "1993"
 ---
 
-My son I played this for about 15 minutes and played the Launched
-Octopus level. The Sea Dragon got me and put me back at the
+My son and I played this for about 15 minutes and played the
+Launch Octopus level. The Sea Dragon got me and put me back at the
 second miniboss.
+
+Total time: 0:15
