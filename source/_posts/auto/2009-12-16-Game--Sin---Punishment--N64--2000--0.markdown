@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Game: Sin and Punishment (N64, 2000)"
+title: "Game: Sin & Punishment (N64, 2000)"
 date: 2009-12-16 00:00
 comments: true
 categories:
 - "Video Games"
-- "Sin and Punishment"
+- "Sin & Punishment"
 - "N64"
 - "2000"
 ---
