@@ -12,7 +12,7 @@ categories:
 
 I played for about two hours today. The scenery was really
 cool. It was awesome going through the swamp and the Bionis'
-body. The visions that Schult it seeing now are very cool and I
+body. The visions that Schulk it seeing now are very cool and I
 can't wait to get to that area of the game. Dunban's new outfit
 is neat too. I still think the battle system is terrible, and I
 still think the world is exciting.
