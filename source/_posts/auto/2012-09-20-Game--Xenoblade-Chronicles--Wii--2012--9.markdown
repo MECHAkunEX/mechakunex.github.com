@@ -42,6 +42,14 @@ great that Japanese developers were learning from the West, but I
 feel like all the Western ideas here are bad ideas that I don't
 want to see more of.
 
+I really disliked that every item changed your appearance because
+it was hard to look consistent while having the best
+stats. Everyone just looked so stupid generally.
+
+The interface was pretty terrible because it took so many clicks
+to do everything and the buttons were reversed from what they
+should be on the controller. Ugh.
+
 I don't think I can really recommend this game... maybe I would
 just recommend watching some videos and reading about the story,
 but I found the mechanics to be unbearably weak.
