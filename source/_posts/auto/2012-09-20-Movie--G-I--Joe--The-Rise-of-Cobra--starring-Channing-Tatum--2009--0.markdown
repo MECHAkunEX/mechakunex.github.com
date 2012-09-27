@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie: G.I. Joe: The Rise of Cobra (2009)"
+title: "Movie: G.I. Joe: The Rise of Cobra, starring Channing Tatum (2009)"
 date: 2012-09-20 00:00
 comments: true
 categories:
