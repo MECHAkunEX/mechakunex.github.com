@@ -17,8 +17,5 @@ summoning spot right before a boss fight, almost like if you were
 having trouble you could grind there, because the game is
 normally very closed and linear. It's a neat structure.
 
-TODO Go back to the mysterious island and go behind the entrance
-where the Lvl 40 Cave Cougars are.
-
 Zael Level: 25
 Total time: 10:39
