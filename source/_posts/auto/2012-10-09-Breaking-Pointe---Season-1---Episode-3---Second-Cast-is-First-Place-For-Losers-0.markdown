@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breaking Pointe - Season 1 - Episode 2 - Second Cast is First Place For Losers"
+title: "Breaking Pointe - Season 1 - Episode 3 - Second Cast is First Place For Losers"
 date: 2012-10-09 00:00
 comments: true
 categories:
