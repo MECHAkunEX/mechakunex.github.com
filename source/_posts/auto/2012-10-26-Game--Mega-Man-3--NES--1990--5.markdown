@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Game: Mega Man 3 (NES, 1990) (6)"
+date: 2012-10-26 00:00
+comments: true
+categories:
+- "Video Games"
+- "Mega Man 3"
+- "NES"
+- "1990"
+---
+
+I played today for a little more than thirty minutes. We got to
+the final boss rush, but I didn't have enough skill to beat them,
+and then when I got to the continue screen I accidentally
+selected "Stage Select" rather than "Continue" so was put back at
+the beginning of Wily's Castle. In frustration, I quit. I
+understand why this option is there---so you can gave E
+tanks. But I was very annoyed that it was default and it took so
+long to restart the game back to where I was.
+
+Total time: 3:45

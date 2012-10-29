@@ -15,4 +15,4 @@ Golf game before, but I've been curious. The PS Vita bundle I
 bought came with it, so I figured, what the heck. I played two
 holes as Yuna. It was kind of fun.
 
-Total time: 22:00
+Total time: 0:22
