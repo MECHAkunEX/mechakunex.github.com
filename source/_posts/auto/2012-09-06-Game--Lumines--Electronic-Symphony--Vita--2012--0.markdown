@@ -13,4 +13,4 @@ categories:
 I got this today and played for like 27 minutes and had one of
 the best runs I ever have had on a Lumines game.
 
-Total time: 27:00
+Total time: 0:27
