@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Game: Sweet Home (NES, 1989)"
+date: 2012-11-24 00:00
+comments: true
+categories:
+- "Video Games"
+- "Sweet Home"
+- "NES"
+- "1989"
+---
+
+This is a really interesting game. It's clear to me how Resident
+Evil was inspired by this. The difficulties of managing the
+various members of the party and piecing together the
+multi-dimensional fetch quest is a very interesting (and pretty
+unique) structure for a game.
+
+I played reading a walk-through that was very particular about
+where you should go and what you should do. I feel like it would
+be bad to play this way, because the whole point of the game is
+to explore this world. However, it seems like it is pretty brutal
+in terms of what your lack of knowledge means. I think I will put
+this on my "revisit" pile.
+
+Given my short time with the game, the main problem with it is
+that it is just a puzzle and there's no good visceral feeling
+associated with playing the game. The controls are pretty awkward
+(knowing who is who is a pain in the beginning, but would
+definitely get better as you played more) and the battle system is
+uninteresting. The quick-time events are really fascinating. The
+lack of an ability to see if a weapon is strong is
+annoying. Overall, it's been a bit of an obtuse but really
+strangely modern game. I feel like a game like this could be made
+really well today. I don't think I can look past the flaws right
+now though.
+
+When I do play it again, I will have to re-rank it.
+
+Total time: 0:43
