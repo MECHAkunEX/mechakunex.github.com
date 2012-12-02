@@ -137,6 +137,11 @@ module Jekyll
       "<a class='category' href='/blog/categories/#{item.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase}/'>#{item}</a>"
     end
 
+    def cat_link(item)
+      sitem = item[0,4]
+      "<a class='category' href='/blog/categories/#{sitem.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase}/'>#{item}</a>"
+    end
+
     # Outputs a list of categories as comma-separated <a> links. This is used
     # to output the category list for each post on a category page.
     #

@@ -1,0 +1,115 @@
+---
+layout: post
+title: "Game: Metal Gear Solid 2: Substance (PS2, 2002)"
+date: 2011-05-28 00:00
+comments: true
+categories:
+- "Video Games"
+- "Metal Gear Solid 2: Substance"
+- "PS2"
+- "2002"
+---
+
+I finished playing through Metal Gear Solid 2: Substance early
+this morning/late last night. I played for about 11 days, from the
+17th to the 28th.
+
+First, some stats:
+
+Difficulty: Hard
+Game Over if Spotted: On
+Play Time: 17:56:01
+Save: 14 times
+Continue: 186 times
+Alert Mode: 8 times
+Persons: 174 killed
+Rations: 83 used
+Code Name: Mammoth
+
+I remember playing this game when it came out. I don't remember
+beating it. Up until I fought with Fatman, I was constantly having
+deja vu about the things that were going on, but I couldn't tell
+you anything that was going to happen. That totally stopped after
+the Fatman fight. I guess I stopped playing at that point back in
+the day?
+
+I played on Hard just so that I could get the "Game Over if
+Spotted" option. I wish I could turn that on at the other
+difficulty levels. As I've said before, I really dislike the
+combat in Metal Gear and when you play on Hard, the bosses are
+significantly stronger and it is very tedious and boring, in my
+opinion. But, I think the Game Over if Spotted is amazing, because
+it forces you to figure out how to get by undetected. I love
+that. Given that though, I don't know how it was possible that I
+ever got any Alert Modes. Perhaps because I killed a guard,
+another saw the body, they called reinforcements, and that counts
+as Alert Mode.
+
+Obviously I continued A LOT to be able to get through
+undetected. I don't really care, because it doesn't make it any
+easier, because you still have to go room-by-room undetected.
+
+I didn't really remember anything about the story of this game, so
+it was nice to be learn it. It connects really well with what I
+remember from MGS4. I'm excited to continue the saga.
+
+One of my favourite aspects of the game was the way it continually
+called back to earlier games; sometimes in a self-acknowledging
+way. There were many many scenes, angles, etc that were pulled
+right from earlier games. I especially like how at the end of the
+game, they integrate that into the story. I really like the way
+the game is about video games and people who play them, in a
+sense.
+
+One of my favourite moments was when Snake tells Raiden he can get
+more ammo from him, Raiden asks him how he has so much ammo, Snake
+points at his bandanna and says "Infinite Ammo". Of course, in
+MGS1 if you save Meryl, the next time you play you get a bandanna
+that gives you infinite ammo. =)
+
+Another great moment for me was when Snake and Otacon depart at an
+elevator and the theme song slowly swells. Very touching.
+
+I didn't mind Raiden at all. Of course, the cat has long been out
+of the bag that the game isn't about him. I don't remember
+thinking it was weird at all when I was younger either. I do
+really like how they initially call him Snake---of course,
+because, it's just a code name, but change it. I also like how at
+the end of the game, when Snake finally appears in his sneaking
+suit, he says, "Have you been waiting long?" or something to
+Raiden, and, of course, to the player.
+
+The mechanics of the game were great. I especially like that
+guards can follow footprints better now.
+
+There were a few things about the gameplay that bugged me.
+
+First, Raiden doesn't start with the means to tranquilize people,
+so I felt compelled to kill pretty early, whereas I got through
+Snake's part without killing anyone. I was planning on doing that,
+but it quickly failed. Later in the game, there are many many
+places that are very combat focused (the tag team with Snake, for
+example) and that's not what the game is about for me, so it
+bugged me.
+
+Second, the end of the bomb disposal segment was annoying because
+I got to the area of the final bomb with almost 200 seconds to
+spare, but I couldn't figure out how to get close enough to the
+bomb. (You had to crawl on a rail in the water, on Hard.) And so I
+had to run all the way back two or three times, even though I got
+there perfectly. Relatedly annoying was the distance you needed to
+be before you jumped into water---to far. I did it accidentally a
+lot.
+
+Third, the swimming controls are awful. Ugh.
+
+Fourth, escort missions suck. Ugh.
+
+At the very end of the game, there is a huge spike in combat
+difficulty, especially with the last two bosses. I probably tried
+30 times on each. I almost gave up and just watched the ending of
+YouTube, but decided to man up and do it. It worked out well too,
+because in the end I beat the final boss without using any
+rations. I had enough practice with his attacks. =)
+
+Great game!
