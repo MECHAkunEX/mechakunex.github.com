@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Downton Abbey - Season 2 - Episode 2 - Episode Two"
+title: "Downton Abbey - Season 2 - Episode 9 - Episode Two"
 date: 2012-08-22 00:00
 comments: true
 categories:

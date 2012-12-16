@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Downton Abbey - Season 2 - Episode 6 - Episode Six"
+title: "Downton Abbey - Season 2 - Episode 13 - Episode Six"
 date: 2012-08-26 00:00
 comments: true
 categories:

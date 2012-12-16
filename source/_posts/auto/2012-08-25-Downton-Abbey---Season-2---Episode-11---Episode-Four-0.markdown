@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Downton Abbey - Season 2 - Episode 4 - Episode Four"
+title: "Downton Abbey - Season 2 - Episode 11 - Episode Four"
 date: 2012-08-25 00:00
 comments: true
 categories:

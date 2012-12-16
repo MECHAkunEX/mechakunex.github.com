@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Downton Abbey - Season 2 - Episode 1 - Episode One"
+title: "Downton Abbey - Season 2 - Episode 8 - Episode One"
 date: 2012-08-22 00:00
 comments: true
 categories:
