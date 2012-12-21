@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie: Snow White and the Hunstman, staring Kristen Stewart (2012)"
+title: "Movie: Snow White and the Hunstman, starring Kristen Stewart (2012)"
 date: 2012-10-10 00:00
 comments: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie: Daybreakers, staring Ethan Hawke (2009)"
+title: "Movie: Daybreakers, starring Ethan Hawke (2009)"
 date: 2012-05-10 00:00
 comments: true
 categories:

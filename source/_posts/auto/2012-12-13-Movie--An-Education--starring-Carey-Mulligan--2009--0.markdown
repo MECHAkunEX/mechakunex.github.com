@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie: An Education, staring Carey Mulligan (2009)"
+title: "Movie: An Education, starring Carey Mulligan (2009)"
 date: 2012-12-13 00:00
 comments: true
 categories:
