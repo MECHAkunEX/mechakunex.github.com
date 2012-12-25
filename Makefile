@@ -31,8 +31,7 @@ deploy: build
 	git commit -m "Update" . || true
 	git push
 	git gc
-	cd $(BUILD)
-	git add .
-	git commit -m "Update" . || true
-	git push
-	git gc
+	cd $(BUILD) ; \
+		git commit -m "Update" . || true ; \
+		git push ; \
+		git gc
