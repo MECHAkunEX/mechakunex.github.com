@@ -27,5 +27,12 @@ remake:
 	rm -f $(BUILD)/index.html
 
 deploy: build
+	git add .
+	git commit -m "Update" .
+	git push
+	git gc
 	cd $(BUILD)
+	git add .
+	git commit -m "Update" .
+	git push
 	git gc
