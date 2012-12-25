@@ -28,11 +28,11 @@ remake:
 
 deploy: build
 	git add .
-	git commit -m "Update" .
+	git commit -m "Update" . || true
 	git push
 	git gc
 	cd $(BUILD)
 	git add .
-	git commit -m "Update" .
+	git commit -m "Update" . || true
 	git push
 	git gc
