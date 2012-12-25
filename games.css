@@ -1,0 +1,23 @@
+#games {
+    border-spacing: 0px;
+    background-color: #EEEEEE;
+}
+#games td {
+    padding-right: 2px;
+}
+#games td:nth-child(2) {
+    width: 1em;
+}
+#games td:nth-child(n+3) {
+    padding-right: 4px;
+}
+#games thead td {
+    font-weight: bold;
+}
+#games thead tr { 
+    background-color: #000000;
+    color: #F2F2F2;
+}
+#games tr:nth-child(2n) { 
+    background-color: #FEFEFE;
+}
