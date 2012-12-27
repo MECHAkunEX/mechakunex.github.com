@@ -7,7 +7,6 @@ ORGS=*.org
 BUILD=./build
 
 $(BUILD)/index.html: ~/sbin/org2blog-ng.rkt $(ORGS)
-	DONT_RANK=1 game-rank	
 	time rk ~/sbin/org2blog-ng.rkt -- $(BUILD)
 	du -hc $(BUILD) | tail -1
 	du -hac $(BUILD)/*html | sort -h
@@ -32,6 +31,7 @@ deploy: build
 	git push
 	git gc
 	cd $(BUILD) ; \
+		git add . ; \
 		git commit -m "Update" . || true ; \
 		git push ; \
 		git gc
