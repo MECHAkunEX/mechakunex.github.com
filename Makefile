@@ -3,21 +3,16 @@
 all: build
 
 ORGS=*.org
-
+EXTRAS=sorttable.js games.css jquery-games.js
 BUILD=./build
 
-$(BUILD)/index.html: ~/sbin/org2blog-ng.rkt $(ORGS)
+$(BUILD)/index.html: ~/sbin/org2blog-ng.rkt $(ORGS) $(EXTRAS)
 	time rk ~/sbin/org2blog-ng.rkt -- $(BUILD)
+	cp -f $(EXTRAS) $(BUILD)
 	du -hc $(BUILD) | tail -1
 	du -hac $(BUILD)/*html | sort -h
 
-$(BUILD)/sorttable.js: sorttable.js
-	cp -f sorttable.js $(BUILD)/
-
-$(BUILD)/games.css: games.css
-	cp -f games.css $(BUILD)/
-
-build: $(BUILD)/index.html $(BUILD)/sorttable.js $(BUILD)/games.css
+build: $(BUILD)/index.html
 
 preview:
 	rk ~/Dev/scm/github.jeapostrophe/exp/dir-serve.rkt $(BUILD)
