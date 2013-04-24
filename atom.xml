@@ -1,4 +1,70 @@
-<feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[MECHAkunEX Media Diary]]></title><link href="http://MECHAkunEX.github.com/atom.xml" rel="self" /><link href="http://MECHAkunEX.github.com" /><updated>2013-04-22T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/</id><entry><title type="html"><![CDATA[Game: Final Fantasy 5 (SNES, 1992) (3)]]></title><link href="http://MECHAkunEX.github.com/post/2013/04/22/Game--Final-Fantasy-5--SNES--1992--2.html" /><updated>2013-04-22T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/post/2013/04/22/Game--Final-Fantasy-5--SNES--1992--2.html</id><content type="html"><![CDATA[<div class="post"><span class="title"><a href="/posts/2013/04/22/Game--Final-Fantasy-5--SNES--1992--2.html">Game: Final Fantasy 5 (SNES, 1992) (3)</a></span><span class="date"><span class="year"><a href="/archive/2013/">2013</a></span><span class="month"><a href="/archive/2013/04/">04</a></span><span class="day"><a href="/archive/2013/04/22/">22</a></span></span><pre class="content">I played for about two and half hours today. The first half was
+<feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[MECHAkunEX Media Diary]]></title><link href="http://MECHAkunEX.github.com/atom.xml" rel="self" /><link href="http://MECHAkunEX.github.com" /><updated>2013-05-23T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/</id><entry><title type="html"><![CDATA[Book: Emma, by Jane Austen (1815)]]></title><link href="http://MECHAkunEX.github.com/post/2013/05/23/Book--Emma--by-Jane-Austen--1815--0.html" /><updated>2013-05-23T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/post/2013/05/23/Book--Emma--by-Jane-Austen--1815--0.html</id><content type="html"><![CDATA[<div class="post"><span class="title"><a href="/posts/2013/05/23/Book--Emma--by-Jane-Austen--1815--0.html">Book: Emma, by Jane Austen (1815)</a></span><span class="date"><span class="year"><a href="/archive/2013/">2013</a></span><span class="month"><a href="/archive/2013/05/">05</a></span><span class="day"><a href="/archive/2013/05/23/">23</a></span></span><pre class="content">I read the first four chapters of this on a flight. I really like
+this novel, because Emma is such an interesting and different
+heroine. I've read it so many times and seen Clueless so many
+times, it is very hard for me to not think of them at the same
+time, which I think it is very funny.</pre><ul class="categories"><li><a href="/cat/Books/">Books</a></li><li><a href="/cat/1815/">1815</a></li></ul></div>]]></content></entry><entry><title type="html"><![CDATA[Game: Final Fantasy 5 (SNES, 1992) (4)]]></title><link href="http://MECHAkunEX.github.com/post/2013/04/23/Game--Final-Fantasy-5--SNES--1992--3.html" /><updated>2013-04-23T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/post/2013/04/23/Game--Final-Fantasy-5--SNES--1992--3.html</id><content type="html"><![CDATA[<div class="post"><span class="title"><a href="/posts/2013/04/23/Game--Final-Fantasy-5--SNES--1992--3.html">Game: Final Fantasy 5 (SNES, 1992) (4)</a></span><span class="date"><span class="year"><a href="/archive/2013/">2013</a></span><span class="month"><a href="/archive/2013/04/">04</a></span><span class="day"><a href="/archive/2013/04/23/">23</a></span></span><pre class="content">Yesterday, I reached an ideal ABP grinding spot and satisfied
+about half of my overall job planning goals. I still had about
+half left and a total of about 1000 ABP left to get. I calculated
+my ABP efficiency:
+- Always get 4 or 8 ABP per fight
+- Always win every fight because Galuf has highest speed and can
+always cast Lvl 5 Doom
+- Can do 8 fights for every use of a Cabin to get back MP
+- A Cabin costs 600 GP
+- Each fight gives 1014 GP or 2535 GP
+- Each fight gives 50 XP or 125 XP
+
+This means that every cycle of fights, I get, assuming equal
+numbers of two statue and five statue fights:
+- 48 ABP
+- 13596 GP
+- 700 XP
+
+Since this process has no risk, it is essentially an arbitrage
+opportunity in the game to get infinite resources.
+
+This means that it would take about 21 cycles to get all my ABP
+requirements satisfied. I would also net 285k GP and 14700 XP. This
+would only bring me up two levels (I'm 25 now), which is not a
+significant source of XP. It's also about double my gold.  I
+estimate that this would take about four hours to do, based on
+getting about 500 ABP in two hours.
+
+When there are situations like this in a game, I wish it were
+possible to give the game a proof or a program that it was possible
+for me to get the resources, so I didn't have to actually spend my
+time to it. It seems wrong to spend my valuable time on such
+things.
+
+Putting all this together, I decided to dump the SRAM from my
+PowerPak and then wrote a program to adjust my total ABP to
+expedite this process. It was a little complicated to find where
+they were stored and then adjust the checksums. (The key was that
+the SNES is little endian.) Implementing the program and running it
+took about an hour and a half... which is still a time win.
+
+After doing this, I got all my ABP, but didn't get any of the XP or
+the GP. Although this is definitely not "allowed" in the game, I
+consider it a fair trade that doesn't compromise the integrity of
+my play-through too much.
+
+I then switch to Freelancers, got my Abilities all in line, and
+then got the equipment from the store that I wanted. (Nice thing:
+The chain whip is the most powerful weapon I have available right
+now and it is also usable from the back row!)
+
+This whole process took 8 minutes of game time, which I will count,
+and about an hour and a half of programming time.
+
+Total time: 15:00</pre><ul class="categories"><li><a href="/cat/Video Games/">Video Games</a></li><li><a href="/cat/Final Fantasy 5/">Final Fantasy 5</a></li><li><a href="/cat/SNES/">SNES</a></li><li><a href="/cat/1992/">1992</a></li></ul></div>]]></content></entry><entry><title type="html"><![CDATA[Game: Shin Megami Tensei: Persona 4 Golden (Vita, 2012)]]></title><link href="http://MECHAkunEX.github.com/post/2013/04/23/Game--Shin-Megami-Tensei--Persona-4-Golden--Vita--2012--0.html" /><updated>2013-04-23T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/post/2013/04/23/Game--Shin-Megami-Tensei--Persona-4-Golden--Vita--2012--0.html</id><content type="html"><![CDATA[<div class="post"><span class="title"><a href="/posts/2013/04/23/Game--Shin-Megami-Tensei--Persona-4-Golden--Vita--2012--0.html">Game: Shin Megami Tensei: Persona 4 Golden (Vita, 2012)</a></span><span class="date"><span class="year"><a href="/archive/2013/">2013</a></span><span class="month"><a href="/archive/2013/04/">04</a></span><span class="day"><a href="/archive/2013/04/23/">23</a></span></span><pre class="content">I played this for three and a half hours and got up to unlocking
+Chie. I basically saw the same sequence that I had previously
+watched at the beginning of the Giantbomb Endurance Run, which I
+did not finish. I really like the dialogue and the voice
+actors. It's fun. I've only had like three fights and no ability
+to use the mechanics, so I can't comment on them yet. It seems
+very similar to P3P, which I liked a lot.
+
+Total time: 3:21</pre><ul class="categories"><li><a href="/cat/Video Games/">Video Games</a></li><li><a href="/cat/Shin Megami Tensei: Persona 4 Golden/">Shin Megami Tensei: Persona 4 Golden</a></li><li><a href="/cat/Vita/">Vita</a></li><li><a href="/cat/2012/">2012</a></li></ul></div>]]></content></entry><entry><title type="html"><![CDATA[Game: Final Fantasy 5 (SNES, 1992) (3)]]></title><link href="http://MECHAkunEX.github.com/post/2013/04/22/Game--Final-Fantasy-5--SNES--1992--2.html" /><updated>2013-04-22T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/post/2013/04/22/Game--Final-Fantasy-5--SNES--1992--2.html</id><content type="html"><![CDATA[<div class="post"><span class="title"><a href="/posts/2013/04/22/Game--Final-Fantasy-5--SNES--1992--2.html">Game: Final Fantasy 5 (SNES, 1992) (3)</a></span><span class="date"><span class="year"><a href="/archive/2013/">2013</a></span><span class="month"><a href="/archive/2013/04/">04</a></span><span class="day"><a href="/archive/2013/04/22/">22</a></span></span><pre class="content">I played for about two and half hours today. The first half was
 wandering around in the new world until I ran into the forest
 where you meet the moogles. Moogles are so cute and I'm glad they
 were introduced in this game... yet another thing that FF5 started
@@ -199,48 +265,4 @@ to the Lava Dome. It is very confusingly organized, so it is hard
 to map internally. I'm really enjoying the cute pictures as
 enemies get weaker.
 
-Total time: 5:15</pre><ul class="categories"><li><a href="/cat/Video Games/">Video Games</a></li><li><a href="/cat/Final Fantasy Mystic Quest/">Final Fantasy Mystic Quest</a></li><li><a href="/cat/SNES/">SNES</a></li><li><a href="/cat/1992/">1992</a></li></ul></div>]]></content></entry><entry><title type="html"><![CDATA[Game: Final Fantasy Mystic Quest (SNES, 1992) (2)]]></title><link href="http://MECHAkunEX.github.com/post/2013/04/15/Game--Final-Fantasy-Mystic-Quest--SNES--1992--1.html" /><updated>2013-04-15T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/post/2013/04/15/Game--Final-Fantasy-Mystic-Quest--SNES--1992--1.html</id><content type="html"><![CDATA[<div class="post"><span class="title"><a href="/posts/2013/04/15/Game--Final-Fantasy-Mystic-Quest--SNES--1992--1.html">Game: Final Fantasy Mystic Quest (SNES, 1992) (2)</a></span><span class="date"><span class="year"><a href="/archive/2013/">2013</a></span><span class="month"><a href="/archive/2013/04/">04</a></span><span class="day"><a href="/archive/2013/04/15/">15</a></span></span><pre class="content">I played today for a short time and went through a few
-battlefields and to the next dungeon. Nothing significant to
-report.
-
-Total time: 2:55</pre><ul class="categories"><li><a href="/cat/Video Games/">Video Games</a></li><li><a href="/cat/Final Fantasy Mystic Quest/">Final Fantasy Mystic Quest</a></li><li><a href="/cat/SNES/">SNES</a></li><li><a href="/cat/1992/">1992</a></li></ul></div>]]></content></entry><entry><title type="html"><![CDATA[Fringe - Season 1 - Episode 1 - Pilot]]></title><link href="http://MECHAkunEX.github.com/post/2013/04/15/Fringe---Season-1---Episode-1---Pilot-0.html" /><updated>2013-04-15T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/post/2013/04/15/Fringe---Season-1---Episode-1---Pilot-0.html</id><content type="html"><![CDATA[<div class="post"><span class="title"><a href="/posts/2013/04/15/Fringe---Season-1---Episode-1---Pilot-0.html">Fringe - Season 1 - Episode 1 - Pilot</a></span><span class="date"><span class="year"><a href="/archive/2013/">2013</a></span><span class="month"><a href="/archive/2013/04/">04</a></span><span class="day"><a href="/archive/2013/04/15/">15</a></span></span><pre class="content">I've been hearing about this show for a while and now that it is
-over, I can watch it. I thought the first episode was fun. I
-liked the actors and the action was interesting. I think the two
-scientists characters will have to grow on me a little, because I
-think they act a little too extreme-to-type. The world it seems
-to be creating is neat.
-
-I found a lot of the minor details of the plot to be
-obvious---for example, you can't have a guy tell a girl he loves
-her (and have her be happy about it) on the first episode, unless
-you're going to kill him or cause him to be a bad guy: and they
-did both!
-
-I think my only complaint about it is the way "fringe science" is
-used as some weird boogey-man discussed in hushed tones, as if
-anyone in the real world actually cares about it. It was also
-weird that "artificial intelligence" is listed as one of the
-fringe science ideas in the beginning. Finally, it's so lazy in
-the title sequence that the same terms are repeated and it's not
-even trying to depict "moving around a space" where the letters
-are.
-
-It's also a little lame that in the very first episode we see
-Agent Dunham half-naked in bed and then it's a crucial plot point
-that she has to disrobe to her underwear for us to gawk at. It's
-especially ridiculous because part of the character background is
-that she's not respected by people (who constantly call her
-"sweetheart") for being a woman and that she is a particularly
-strong woman and defender of woman (in her defense of the raped
-women in her past). This is so ridiculous, because in one part of
-the show we're supposed to be appalled by the bad behavior of the
-men vis-a-vis her gender, but in another part the producers put
-us right into their seat.</pre><ul class="categories"><li><a href="/cat/TV Shows/">TV Shows</a></li><li><a href="/cat/Fringe/">Fringe</a></li></ul></div>]]></content></entry><entry><title type="html"><![CDATA[Game: Axelay (SNES, 1992)]]></title><link href="http://MECHAkunEX.github.com/post/2013/04/14/Game--Axelay--SNES--1992--0.html" /><updated>2013-04-14T00:00:00-00:00</updated><id>http://MECHAkunEX.github.com/post/2013/04/14/Game--Axelay--SNES--1992--0.html</id><content type="html"><![CDATA[<div class="post"><span class="title"><a href="/posts/2013/04/14/Game--Axelay--SNES--1992--0.html">Game: Axelay (SNES, 1992)</a></span><span class="date"><span class="year"><a href="/archive/2013/">2013</a></span><span class="month"><a href="/archive/2013/04/">04</a></span><span class="day"><a href="/archive/2013/04/14/">14</a></span></span><pre class="content">I played through this game in about an hour, using an infinite
-lives cheat code. I had the standard complaints about the
-invisible bullets and horizontal-ness that I normally have about
-old shmups. BUT, the visuals and enemies in this game were so
-amazing that it was definitely worth playing through to see them
-all. The two kind of levels was a really neat touch that I
-enjoyed.
-
-Total time: 0:47</pre><ul class="categories"><li><a href="/cat/Video Games/">Video Games</a></li><li><a href="/cat/Axelay/">Axelay</a></li><li><a href="/cat/SNES/">SNES</a></li><li><a href="/cat/1992/">1992</a></li></ul></div>]]></content></entry></feed>
+Total time: 5:15</pre><ul class="categories"><li><a href="/cat/Video Games/">Video Games</a></li><li><a href="/cat/Final Fantasy Mystic Quest/">Final Fantasy Mystic Quest</a></li><li><a href="/cat/SNES/">SNES</a></li><li><a href="/cat/1992/">1992</a></li></ul></div>]]></content></entry></feed>
