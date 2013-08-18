@@ -13,12 +13,22 @@ $(window).load(function(){
 
     $('#sysfilter').keyup(function() {
         var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+        var rev = false;
+        if ( val[0] == '!' ) {
+            val = val.substring(1);
+            rev = true; 
+        }
 
         $rows.show().filter(function() {
             var cells = this.getElementsByTagName('td');
             var game = cells[1];
             var text = $(game).text().replace(/\s+/g, ' ').toLowerCase();
-            return ! (text.substring(0,val.length) == val);
+            var eq = (text.substring(0,val.length) == val);
+            if ( rev ) {
+                return eq;
+            } else {
+                return ! eq;
+            }
         }).hide();
     });
 
