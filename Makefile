@@ -15,7 +15,7 @@ $(BUILD)/index.html: ~/sbin/org2blog-ng.rkt $(ORGS) $(EXTRAS)
 build: $(BUILD)/index.html
 
 preview:
-	rk ~/Dev/scm/github.jeapostrophe/exp/dir-serve.rkt $(BUILD)
+	rk ~/Dev/scm/github.jeapostrophe/exp/dir-serve.rkt -- -p 8001 $(BUILD)
 
 remake:
 	rm -f $(BUILD)/index.html
