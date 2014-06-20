@@ -10,7 +10,7 @@ $(BUILD)/index.html: ~/sbin/org2blog-ng.rkt $(ORGS) $(EXTRAS)
 	time rk ~/sbin/org2blog-ng.rkt -- $(BUILD)
 	cp -f $(EXTRAS) $(BUILD)
 	du -hc $(BUILD) | tail -1
-	du -hac $(BUILD)/*html | sort -h
+	du -hac $(BUILD)/*html | sort -n
 
 build: $(BUILD)/index.html
 
