@@ -24,10 +24,12 @@ $(window).load(function(){
             var game = cells[1];
             var text = $(game).text().replace(/\s+/g, ' ').toLowerCase();
             var eq = (text.substring(0,val.length) == val);
+            var pclike = (text == "gog") || (text == "steam") || (text == "pc") || (text == "rift");
+            var ret = (val == "pclike") ? pclike : eq;
             if ( rev ) {
-                return eq;
+                return ret;
             } else {
-                return ! eq;
+                return ! ret;
             }
         }).hide();
     });
